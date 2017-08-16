@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Syntax Highlighting Post"
-description: "Demo post displaying the various ways of highlighting code in Markdown."
-date: 2017-07-20
-tags: sample post, code, highlighting
+title: Syntax Highlighting Post
+description: Demo post displaying the various ways of highlighting code in Markdown.
+date: {}
+tags: 'sample post, code, highlighting'
 comments: true
+published: false
 ---
 
 
