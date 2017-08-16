@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Quick Start Guide"
-description: "How to setup and use the blog"
-date: 2017-07-21
+title: Quick Start Guide
+description: How to setup and use the blog
+date: 2017-07-21T00:00:00.000Z
 tags: jekyll
 comments: true
+published: false
 ---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
