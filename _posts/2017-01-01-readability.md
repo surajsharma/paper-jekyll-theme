@@ -2,7 +2,7 @@
 layout: post
 title: Testing Readability with a Bunch of Text
 description: A ton of text to test readability.
-date: {}
+date: 2016-08-11T00:00:00.000Z
 tags: 'sample post, readability, test, intro'
 comments: true
 published: false
