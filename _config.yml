@@ -10,7 +10,7 @@ github_username:surajsharma
 
 
 # If you are building a GitHub project page then use these settings:
-url: "http://surajsharma.github.io"
+url: "http://surajsharma.github.io/"
 baseurl: ""
 
 google_analytics_id: UA-1111111111-1
