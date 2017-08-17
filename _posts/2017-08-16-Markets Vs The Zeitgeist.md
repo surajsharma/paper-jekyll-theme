@@ -1,5 +1,6 @@
 ---
 published: true
+tags: 'markets, economics, philosophy'
 ---
 Does art imitate life? or is it he other way around? 
 
