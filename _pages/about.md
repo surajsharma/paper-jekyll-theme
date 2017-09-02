@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-Hi, I'm Suraj and I live in Mumbai, India. Thank you for visiting my site.
-
 I'm a correspondent with [Cogencis](http://cogencis.com), India's first financial data and news wire. You may check out my <a href="https://in.linkedin.com/in/surajsharma21" data-network="LinkedIn" data-proofer-ignore>LinkedIn</a> for details. 
 
 You can download my CV [here](https://drive.google.com/file/d/0B_HwcsMkhATmZnlic2ZzbmEzY1k/view?usp=sharing) and view a sample of my writing (as a journalist) [here](https://drive.google.com/file/d/0B_HwcsMkhATmZ1l4V29NdXdIRmc/view?usp=sharing). For more samples of my business-related writing, you can view my [muckrack profile](muckrack.com/surajsharma).
