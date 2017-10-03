@@ -10,9 +10,9 @@ An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/wha
 > "If you steal from one author it's plagiarism; if you steal from many it's research." 
 	- Wilson Mizner 
 
-Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine for the analyst wombat, a creature burrowed deep in a labyrinthine hierarchy meritocratic enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
+Not just big banks and brokerages, but analysts of even rating agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine to hunt down the analyst wombat, a creature burrowed deep in a labyrinthine hierarchy meritocratic enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
 
-A typical analyst wombat is no different than the rest of us, accidentally trapped in a field of perpetual cognitive dissonance. He wants escape, but the only way out is through, so he does the menial job of producing specialised content for a niche audience.
+A typical analyst wombat is no different than the rest of us, accidentally trapped in a field of perpetual cognitive dissonance. He wants escape, but the only way out is through, so he does the menial job - producing specialised content for niche audiences. What makes the analyst interesting is not the function he performs though, it is rather his location in the financial ecosystem that catalyses the utility of his function. Perched between the markets and participants, like a real-life [maxwell's demon](https://en.wikipedia.org/wiki/Maxwell%27s_demon), condemned to separate hot "molecules" from cold.
 
 I don't know how much time their profession can borrow before artificial intelligence starts eating up into the market share for their skillset, but as a (humble) programmer, I believe it will become commercially scalable before an AI is able to write its first New York Times bestseller. 
 
@@ -22,13 +22,11 @@ He tries to be polite, but wants me to call after the market closes.
 
 The journalist is little more than an [NPC](https://en.wikipedia.org/wiki/Non-player_character) in the analyst's viewport, another sprite to bump against expecting little more than a rumor-shower or PR mushrooms. And yet, developing the right analyst sources is key for the journalist's survival (at least as a rookie).
 
-Technical analysts are humbler as compared to others, they treat the information they share as fragile, but want publicity in return. I oblige as often as possible because at least they don't claim to peddle their causal certainty as the truth.
-
 Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups, blather ad infinitum at an intensity that any useful signal becomes a needle in a noisy haystack.
 
-News expires more rapidly than most people think, but the sell-side analysts think differently, because unlike the real world where news originates in all three dimensions, their research virtually renders them as market-maker in this derived information symmetry. 
+News expires more rapidly than most people think, but the sell-side analyst can hardly care, because his original research virtually renders him as market-maker in this derived information symmetry. 
 
-All this gives the analyst in the labyrinth a holier-than-thou confidence, I think anyone who finds themselves at the start of a food chain can ever escape becoming spiritual. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
+All this gives the analyst in the labyrinth a holier-than-thou confidence, I don't think anyone who finds themselves at the start of a food chain can ever escape becoming spiritual. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
 
 On the other hand, hacks like myself must continually pump the lines with cold calls to get information. That, and legwork.
 
@@ -42,7 +40,7 @@ Think of it this way, if the job of the analyst is to disemminate truthful infor
 
 This 14% at-best claim on the edge has proffered a veritable information-recycling industry in a parasitic relationship with host economies. As banks cut corners to increase provisions for the next inevitable bust, governments prop up legislations like [MiFID](https://en.wikipedia.org/wiki/Markets_in_Financial_Instruments_Directive_2004), as offsets.
 
-A barrier-to-entry at its worst, the BUY, SELL, and HOLD spells of the analyst usually end in little more than esoteric smoke and arcane mirrors for the investor - but to the banker that owns the wombat, the customer seems tantalised with the wizardry and added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
+A barrier-to-entry at its worst, the BUY, SELL, and HOLD spells of the analyst usually end in little more than esoteric smoke and arcane mirrors for the investor - but to the banker the customer appears tantalised with the wizardry and added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
 
 I hold that a motivated commoner can get a 10-14% average alpha in a any market if they apply themselves, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research will continue to exist because individuals are too lazy and organizations need lambs.
 
