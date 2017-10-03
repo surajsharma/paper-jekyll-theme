@@ -11,9 +11,7 @@ Not just banks and brokerages, but analysts of even ratings agencies trot around
 
 Imagine being anlaytical with a right-wing persuasion, wouldn't you take any window? The analyst wants to escape, but the only way out is through, so he does the menial job. 
 
-![]({{site.baseurl}}/http://i0.wp.com/www.angrycritter.com/wp-content/uploads/2010/07/critter_help1.jpg)
-
-I don't know how much time analysts have left before artificial intelligence starts eating up into the market share for their skillset, but as a (humble) programmer, I believe it will become commercially scalbale before an AI is able to write a New York Times bestseller. 
+I don't know how much time analysts have left before artificial intelligence starts eating up into the market share for their skillset, but as a (humble) programmer, I believe it will become commercially scalable before an AI is able to write a New York Times bestseller. 
 
 I'd like to believe that the analyst, too, is deeply aware of this threat, most of the time.
 
@@ -25,7 +23,7 @@ Technical analysts are humbler as compared to others, they treat the information
 
 Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups, blather ad infinitum at an intensity that any useful signal becomes a needle in a noisy haystack.
 
-News expires more rapidly than most people think, but the sell-side analysts think differently, because unlike the real world where news originates in all three dimensions, their mysterious and elusive universe is virtually a market-maker in this derived information symmetry. 
+News expires more rapidly than most people think, but the sell-side analysts think differently, because unlike the real world where news originates in all three dimensions, their research virtually renders them as market-maker in this derived information symmetry. 
 
 All this gives the analyst in the labyrinth a holier-than-thou confidence, I think anyone who finds themselves at the start of a food chain would tend to get spiritual. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
 
@@ -35,17 +33,17 @@ But why must it be that way?, not that I mind cold calling, or legwork, but here
 
 > Normally only one change in ten in analysts’ stock recommendations moves the price of the share in question. But the proportion increases to one in seven in falling markets, even though there are more changes during market routs.
 
-14% accuracy in a falling market is placebo to write home about, but then why do it?
+14% accuracy in a falling market is but placebo to write home about, but then why do it?
 
 Matt Levine explains the two models of sell-side research beautifully [here](https://www.bloomberg.com/view/articles/2017-01-20/wall-street-analysts-give-investors-what-they-want), leaving it beyond scientific doubt that this beast is actually an agent of the dungeon_master, making his way through his master's ladder, minting him gold in the process rather than acting cute for charity, as was earlier held by some.
 
 Think of it this way, if the job of the analyst is to disemminate truthful information, how are they any different from journalists except in detail, prose-complexity, and jargon? 
 
-A 14% at-best claim on the edge has become a veritable industry in-itself, little wonder it will now be subsidised with [MiFID](https://en.wikipedia.org/wiki/Markets_in_Financial_Instruments_Directive_2004), can't it survive on it's own now that banks need to beef up provisions across the globe? A barrier-to-entry at its worst, the arcane spells of the analyst usually end in little more than glitter and smoke - and to the banker to owns the wombat-wizard, the customer seems entertained with their value added. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
+A 14% at-best claim on the edge has become a veritable industry in-itself, little wonder it will now be subsidised with [MiFID](https://en.wikipedia.org/wiki/Markets_in_Financial_Instruments_Directive_2004), can't it survive on it's own now that banks need to beef up provisions across the globe? A barrier-to-entry at its worst, the arcane spells of the analyst usually with in little more than mirrors and smoke - and to the banker to owns the wombat-wizard, the customer seems entertained with their value added. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
 
 Personally, I hold that a motivated commoner can get a 14% average alpha in a falling market if they apply themselves, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research exists because individuals are too lazy and organizations need lambs.
 
 I'm not saying lubricating the market's cogs with "premium mediocre" snake oil is unethical, but if access to the snake oil is made easier, more people and the market at large could benefit, if competition is truly fostered, if feedback and analytics are opened for investor recourse and if the simple investor is invited into this secretive world of the wombat-analyst, perhaps then sell-side research may survive as anything more than a footstool for the zenith of complexity we like to call automation.
 
-![]({{site.baseurl}}/http://assets.nydailynews.com/polopoly_fs/1.154356.1314005363!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/alg-bloomberg-groundhog-jpg.jpg)
+![](http://assets.nydailynews.com/polopoly_fs/1.154356.1314005363!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/alg-bloomberg-groundhog-jpg.jpg)
 * This is a groundhog, which is a marmot, not a wombat, wombats are marsupials.
