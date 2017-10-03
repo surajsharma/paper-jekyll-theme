@@ -22,9 +22,9 @@ He tries to be polite, but wants me to call after the market closes.
 
 The journalist is little more than an [NPC](https://en.wikipedia.org/wiki/Non-player_character) in the analyst's viewport, another sprite to bump against expecting little more than a rumor-shower or PR mushrooms. And yet, developing the right analyst sources is key for the journalist's survival (at least as a rookie).
 
-Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups, blather ad infinitum at an intensity that any useful signal becomes a needle in a noisy haystack.
+Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups, clamour for the journalist's attention, blathering ad infinitum and at an intensity that leaves useful signal about as visible as a needle in a noisy haystack.
 
-News expires more rapidly than most people think, but the sell-side analyst can hardly care, because his original research virtually renders him as market-maker in this derived information symmetry. 
+News expires more rapidly than most people think, but the sell-side analyst hardly cares, because his original research virtually renders him as market-maker in this derived information symmetry. 
 
 All this gives the analyst in the labyrinth a holier-than-thou confidence, I don't think anyone who finds themselves at the start of a food chain can ever escape becoming spiritual. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
 
