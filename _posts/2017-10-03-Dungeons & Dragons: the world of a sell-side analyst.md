@@ -5,7 +5,7 @@ An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/wha
 
 > "If you steal from one author it's plagiarism; if you steal from many it's research." - Wilson Mizner 
 
-Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but the analyst is burrowed in a labyrynthine hierarchy, deep enough to make a [Kayastha](https://en.wikipedia.org/wiki/Kayastha) [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business look like a mom & pop store.
+Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine for the analyst wombat, burrowed in a labyrinthine hierarchy deep enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
 
 Imagine being anlaytical with a right-wing persuasion, wouldn't you take any window? The analyst wants to escape, but the only way out is through, so he does the menial job. 
 
@@ -15,9 +15,9 @@ I'd like to believe that the analyst, too, is deeply aware of this threat, most 
 
 He tries to be polite, but wants me to call after the market closes.
 
-The journalist is little more than an [NPC](https://en.wikipedia.org/wiki/Non-player_character) in the analyst's viewport, another sprite to bump against expecting little more than a rumor-showers or PR mushrooms. And yet, developing the right analyst sources is key for the journalist's survival (at least as a rookie).
+The journalist is little more than an [NPC](https://en.wikipedia.org/wiki/Non-player_character) in the analyst's viewport, another sprite to bump against expecting little more than a rumor-shower or PR mushrooms. And yet, developing the right analyst sources is key for the journalist's survival (at least as a rookie).
 
-Technical analysts are humbler as compared to others, they treat the information they share as fragile, but want publicity in return. I oblige as often as possible.
+Technical analysts are humbler as compared to others, they treat the information they share as fragile, but want publicity in return. I oblige as often as possible because at least they don't claim to peddle their causal certainty as the truth.
 
 Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups, blather ad infinitum at an intensity that any useful signal becomes a needle in a noisy haystack.
 
