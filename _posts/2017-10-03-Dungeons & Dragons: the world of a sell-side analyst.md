@@ -3,13 +3,16 @@ published: true
 ---
 An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/what-a-sell-side-analyst-does-and-how-the-job-has-changed) about sell-side analysts between Joe and Tracy led to these jottings.
 
+
+>"Analysts didn’t analyze anything. They were slaves to a team of corporate financiers, the men who did the negotiations and paper work (though not the trading and selling) of new issues of stocks and bonds for America’s corporations." - Michael Lewis, Liar's Poker
+
 > "If you steal from one author it's plagiarism; if you steal from many it's research." - Wilson Mizner 
 
-Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine for the analyst wombat, burrowed in a labyrinthine hierarchy deep enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
+Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine for the analyst wombat, burrowed deep in a labyrinthine hierarchy meritocratic enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
 
-Imagine being anlaytical with a right-wing persuasion, wouldn't you take any window? The analyst wants to escape, but the only way out is through, so he does the menial job. 
+I find it amusing to imagine a typical analyst as someone with a right-wing persuasion who is also intensely anlaytical, living inside a perpetual field of cognitive dissonance. The analyst wants escape, but the only way out is through, so he does the menial job. 
 
-I don't know how much time analysts have left before artificial intelligence starts eating up into the market share for their skillset, but as a (humble) programmer, I believe it will become commercially scalable before an AI is able to write a New York Times bestseller. 
+I don't know how much time their profession can borrow before artificial intelligence starts eating up into the market share for their skillset, but as a (humble) programmer, I believe it will become commercially scalable before an AI is able to write a New York Times bestseller. 
 
 I'd like to believe that the analyst, too, is deeply aware of this threat, most of the time.
 
@@ -41,7 +44,7 @@ A 14% at-best claim on the edge has become a veritable industry in-itself, littl
 
 I hold that a motivated commoner can get a 10-14% average alpha in a any market if they apply themselves, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research exists because individuals are too lazy and organizations need lambs.
 
-I'm not saying lubricating the market's cogs with "premium mediocre" snake oil is unethical, but if access to the snake oil is made easier, more people and the market could benefit, if competition is truly fostered (with more freebies), if feedback and analytics are opened for investor recourse, and if the simple investor is invited into this secretive world of the wombat-analyst, perhaps then sell-side research may survive as anything more than a footstool for the zenith of complexity called automation. Hey, I might even pay for it.
+I'm not saying lubricating the market's cogs with "premium mediocre" snake oil is unethical, but if access to the snake oil is made easier, more people and the market could benefit, if competition is truly fostered (with more freebies), if feedback and analytics are opened for investor recourse, and if the simple investor is invited into this secretive world of the wombat-analyst, perhaps then sell-side research may survive as anything more than a footstool for the zenith of complexity called automation. 
 
 ![](http://assets.nydailynews.com/polopoly_fs/1.154356.1314005363!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/alg-bloomberg-groundhog-jpg.jpg)
 * This is a groundhog, which is a marmot, not a wombat, wombats are marsupials.
