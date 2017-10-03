@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-#Wombats in Labyrinths: the world of a sell-side analyst
-
 An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/what-a-sell-side-analyst-does-and-how-the-job-has-changed) about sell-side analysts between Joe and Tracy led to these jottings:
+
+# Wombats in Labyrinths: the world of a sell-side analyst
 
 >"Analysts didn’t analyze anything. They were slaves to a team of corporate financiers, the men who did the negotiations and paper work (though not the trading and selling) of new issues of stocks and bonds for America’s corporations." - Michael Lewis, Liar's Poker
 
