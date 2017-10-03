@@ -28,9 +28,9 @@ Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups
 
 News expires more rapidly than most people think, but the sell-side analysts think differently, because unlike the real world where news originates in all three dimensions, their research virtually renders them as market-maker in this derived information symmetry. 
 
-All this gives the analyst in the labyrinth a holier-than-thou confidence, I think anyone who finds themselves at the start of a food chain can ever escape getting spirituala at times. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
+All this gives the analyst in the labyrinth a holier-than-thou confidence, I think anyone who finds themselves at the start of a food chain can ever escape becoming spiritual. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
 
-On the other hand hacks like myself must continually pump the lines with cold calls to get information. That, and legwork.
+On the other hand, hacks like myself must continually pump the lines with cold calls to get information. That, and legwork.
 
 But why must it be that way?, not that I mind cold calling, or legwork, but here's what The Economist had to say about [the accuracy of equity research](https://www.economist.com/news/finance-and-economics/21594358-bear-market-or-bull-analysts-give-bad-advice-consistently-wrong)):
 
@@ -42,11 +42,11 @@ Think of it this way, if the job of the analyst is to disemminate truthful infor
 
 This 14% at-best claim on the edge has proffered a veritable information-recycling industry in a parasitic relationship with host economies. As banks cut corners to increase provisions for the next inevitable bust, governments prop up legislations like [MiFID](https://en.wikipedia.org/wiki/Markets_in_Financial_Instruments_Directive_2004), as offsets.
 
-A barrier-to-entry at its worst, the arcane BUY, SELL, and HOLD spells of the analyst usually end in little more than smoke and mirrors for the investor - but to the banker that owns the wombat-wizard, the customer seems tantalised with the added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
+A barrier-to-entry at its worst, the BUY, SELL, and HOLD spells of the analyst usually end in little more than esoteric smoke and arcane mirrors for the investor - but to the banker that owns the wombat, the customer seems tantalised with the wizardry and added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
 
-I hold that a motivated commoner can get a 10-14% average alpha in a any market if they apply themselves, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research exists because individuals are too lazy and organizations need lambs.
+I hold that a motivated commoner can get a 10-14% average alpha in a any market if they apply themselves, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research will continue to exist because individuals are too lazy and organizations need lambs.
 
-I'm not saying lubricating the market's cogs with "premium mediocre" snake oil is unethical, but if access to the snake oil is made easier, more people and the market could benefit, if competition is truly fostered (with more freebies), if feedback and analytics are opened for investor recourse, and if the simple investor is invited into this secretive world of the wombat-analyst, perhaps then sell-side research may survive as anything more than a footstool for the zenith of complexity called automation. 
+I'm not saying lubricating the market's cogs with "premium mediocre" snake oil is unethical, but if access to the snake oil is made easier, more people and the market could benefit. If competition is truly fostered (with more freebies), if feedback and analytics are opened for investor recourse, and if the simple investor is invited more often into the secretive world of the wombat-analyst, perhaps then, sell-side research may survive as something more than a footstool for automation. 
 
 ![](http://assets.nydailynews.com/polopoly_fs/1.154356.1314005363!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/alg-bloomberg-groundhog-jpg.jpg)
 * This is a groundhog, which is a marmot, not a wombat, wombats are marsupials.
