@@ -12,11 +12,11 @@ An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/wha
 
 Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine for the analyst wombat, a creature burrowed deep in a labyrinthine hierarchy meritocratic enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
 
-I find it amusing to imagine a typical analyst as someone with a right-wing persuasion who is also intensely anlytical, living inside a perpetual field of cognitive dissonance. The analyst wants escape, but the only way out is through, so he does the menial job. 
+A typical analyst wombat is no different than the rest of us, accidentally trapped in a field of perpetual cognitive dissonance. He wants escape, but the only way out is through, so he does the menial job of producing specialised content for a niche audience.
 
-I don't know how much time their profession can borrow before artificial intelligence starts eating up into the market share for their skillset, but as a (humble) programmer, I believe it will become commercially scalable before an AI is able to write a New York Times bestseller. 
+I don't know how much time their profession can borrow before artificial intelligence starts eating up into the market share for their skillset, but as a (humble) programmer, I believe it will become commercially scalable before an AI is able to write its first New York Times bestseller. 
 
-I'd like to believe that the analyst, too, is deeply aware of this threat, most of the time.
+I'd like to believe that the wombat, too, is deeply aware of this threat, most of the time.
 
 He tries to be polite, but wants me to call after the market closes.
 
@@ -28,7 +28,7 @@ Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups
 
 News expires more rapidly than most people think, but the sell-side analysts think differently, because unlike the real world where news originates in all three dimensions, their research virtually renders them as market-maker in this derived information symmetry. 
 
-All this gives the analyst in the labyrinth a holier-than-thou confidence, I think anyone who finds themselves at the start of a food chain would tend to get spiritual. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
+All this gives the analyst in the labyrinth a holier-than-thou confidence, I think anyone who finds themselves at the start of a food chain can ever escape getting spirituala at times. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
 
 On the other hand hacks like myself must continually pump the lines with cold calls to get information. That, and legwork.
 
