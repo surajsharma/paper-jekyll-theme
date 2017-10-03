@@ -40,7 +40,7 @@ Matt Levine explains the two models of sell-side research beautifully [here](htt
 
 Think of it this way, if the job of the analyst is to disemminate truthful information, how are they any different from journalists except in detail, prose-complexity, and jargon? 
 
-This 14% at-best claim on the edge has proffered a veritable information-recycling industry enmeshed in a parasitic relationship with the host industry. As banks cut corners to increase provisions for the next inevitable bust, governments prop up legislations like [MiFID](https://en.wikipedia.org/wiki/Markets_in_Financial_Instruments_Directive_2004), as offsets.
+This 14% at-best claim on the edge has proffered a veritable information-recycling industry in a parasitic relationship with host economies. As banks cut corners to increase provisions for the next inevitable bust, governments prop up legislations like [MiFID](https://en.wikipedia.org/wiki/Markets_in_Financial_Instruments_Directive_2004), as offsets.
 
 A barrier-to-entry at its worst, the arcane BUY, SELL, and HOLD spells of the analyst usually end in little more than smoke and mirrors for the investor - but to the banker that owns the wombat-wizard, the customer seems tantalised with the added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
 
