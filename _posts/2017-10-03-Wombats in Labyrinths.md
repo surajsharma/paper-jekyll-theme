@@ -1,15 +1,15 @@
 ---
 published: true
 ---
-An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/what-a-sell-side-analyst-does-and-how-the-job-has-changed) about sell-side analysts between Joe and Tracy led to these jottings:
-
 #Wombats in Labyrinths: the world of a sell-side analyst
+
+An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/what-a-sell-side-analyst-does-and-how-the-job-has-changed) about sell-side analysts between Joe and Tracy led to these jottings:
 
 >"Analysts didn’t analyze anything. They were slaves to a team of corporate financiers, the men who did the negotiations and paper work (though not the trading and selling) of new issues of stocks and bonds for America’s corporations." - Michael Lewis, Liar's Poker
 
 > "If you steal from one author it's plagiarism; if you steal from many it's research." - Wilson Mizner 
 
-Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine for the analyst wombat, burrowed deep in a labyrinthine hierarchy meritocratic enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
+Not just banks and brokerages, but analysts of even ratings agencies trot around with a touch-me-not air these days. There aren't a lot of axes to grind in the media business, but I've been sharpening mine for the analyst wombat, a creature burrowed deep in a labyrinthine hierarchy meritocratic enough to make an [HUF](https://en.wikipedia.org/wiki/Hindu_joint_family#Hindu_Undivided_Family) business empire look like a mom & pop store.
 
 I find it amusing to imagine a typical analyst as someone with a right-wing persuasion who is also intensely anlytical, living inside a perpetual field of cognitive dissonance. The analyst wants escape, but the only way out is through, so he does the menial job. 
 
