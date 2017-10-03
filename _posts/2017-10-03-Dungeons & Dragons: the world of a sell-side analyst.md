@@ -33,7 +33,7 @@ But why must it be that way?, not that I mind cold calling, or legwork, but here
 
 14% accuracy in a falling market is but placebo to write home about, but then why do it?
 
-Matt Levine explains the two models of sell-side research beautifully [here](https://www.bloomberg.com/view/articles/2017-01-20/wall-street-analysts-give-investors-what-they-want), leaving it beyond scientific doubt that this beast is actually an agent of the dungeon_master, making his way through his master's ladder, minting him gold in the process rather than acting cute for charity, as was earlier held by some.
+Matt Levine explains the two models of sell-side research beautifully [here](https://www.bloomberg.com/view/articles/2017-01-20/wall-street-analysts-give-investors-what-they-want), leaving it beyond scientific doubt that this beast is actually an agent of the dungeon_master, making his way up his master's ladder, minting him gold in the process rather than acting cute for charity, as was earlier held by some.
 
 Think of it this way, if the job of the analyst is to disemminate truthful information, how are they any different from journalists except in detail, prose-complexity, and jargon? 
 
