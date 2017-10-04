@@ -24,11 +24,13 @@ The journalist is little more than an [NPC](https://en.wikipedia.org/wiki/Non-pl
 
 Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups, clamour for the journalist's attention, blathering ad infinitum and at an intensity that leaves useful signal about as visible as a needle in a noisy haystack.
 
-News expires more rapidly than most people think, but the sell-side analyst hardly cares, because his original research virtually renders him as market-maker in this derived information symmetry. 
+At the other extreme are oligarchies of big ticket rating agencies, banks, and brokerages that produce research that  nudges financial media and the markets in much the same direction. [Kinks of financial journalism] (pdf) (https://www8.gsb.columbia.edu/financialstudies/sites/financialstudies/files/News%26Finance_Diego%20Garcia_1.pdf) aside, the whole system feels rigged in a way a single instance of a confirmation bias can round-trip and trigger disasterous multipliers before checks and balances kick in.
 
-All this gives the analyst in the labyrinth a holier-than-thou confidence, I don't think anyone who finds themselves at the start of a food chain can ever escape becoming spiritual. Once an analyst makes it big, the quid-pro-quo is more apparent, supply meets demand readily, the linen gets washed.
+News expires more rapidly than most people think, but the sell-side analyst hardly cares, because his original research virtually renders him a market-maker in this derived information symmetry. 
 
-On the other hand, hacks like myself must continually pump the lines with cold calls to get information. That, and legwork.
+All this gives the analyst in the labyrinth a holier-than-thou confidence, I don't think anyone who finds themselves at the start of a food chain can ever escape becoming spiritual. So once an analyst makes it big, the quid-pro-quo is more apparent, supply readily meets demand, the linen gets washed.
+
+Anyone desirous of a real scoop must still continually pump the lines with cold calls to get information. That, and legwork.
 
 But why must it be that way?, not that I mind cold calling, or legwork, but here's what The Economist had to say about [the accuracy of equity research](https://www.economist.com/news/finance-and-economics/21594358-bear-market-or-bull-analysts-give-bad-advice-consistently-wrong)):
 
@@ -42,7 +44,11 @@ This 14% at-best claim on the edge has proffered a veritable information-recycli
 
 A barrier-to-entry at its worst, the BUY, SELL, and HOLD spells of the analyst usually end in little more than esoteric smoke and arcane mirrors for the investor - but to the banker the customer appears tantalised with the wizardry and added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
 
-I hold that a motivated commoner can get a 10-14% average alpha in a any market if they apply themselves, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research will continue to exist because individuals are too lazy and organizations need lambs.
+Perhaps a motivated commoner can get a 10-14% average alpha in a any market if they apply themselves and do their own research, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research will continue to exist because individuals are too lazy and organizations need lambs.
+
+I don't mean to disparage the sell-side research industry, even though a lot about it reminds me of the private tutoring industry, but there is simply so much information overkill in this medium that the message rarely makes it out alive, which is to say it fails to deliver any real edge. The market being served here is one that demands several layers of procedural redundancies and decision-support failsafes, this is not a market for innovation and certainly not one for news.  
+
+The analyst's disciplined approach is something to be admired. It imbues his research with objectivity, but when quarter upon quarter one is faced with predictions, estimates, and recommendations which either tow the broader market line, or are so far removed from what actually occurs that I can't help becoming skeptical of the output, and apathetic of its claims. 
 
 I'm not saying lubricating the market's cogs with "premium mediocre" snake oil is unethical, but if access to the snake oil is made easier, more people and the market could benefit. If competition is truly fostered (with more freebies), if feedback and analytics are opened for investor recourse, and if the simple investor is invited more often into the secretive world of the wombat-analyst, perhaps then, sell-side research may survive as something more than a footstool for automation. 
 
