@@ -42,7 +42,7 @@ Think of it this way, if the job of the analyst is to disemminate truthful infor
 
 This 14% at-best claim on the edge has proffered a veritable information-recycling industry in a parasitic relationship with host economies. As banks cut corners to increase provisions for the next inevitable bust, governments prop up legislations like [MiFID](https://en.wikipedia.org/wiki/Markets_in_Financial_Instruments_Directive_2004), as offsets.
 
-A barrier-to-entry at its worst, the BUY, SELL, and HOLD spells of the analyst usually end in little more than esoteric smoke and arcane mirrors for the investor - but to the banker the customer appears tantalised with the wizardry and added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
+A barrier-to-entry at their worst, the BUY, SELL, and HOLD spells of the analyst usually end in little more than esoteric smoke and arcane mirrors for the investor - but to the banker the customer appears tantalised with the wizardry and added value. The media reports with little enthusiasm or aplomb and the audience admires his expensive tools and potions. All in a day's work for Dobby.
 
 Perhaps a motivated commoner can get a 10-14% average alpha in a any market if they apply themselves and do their own research, as Poninju Veliath says- "[make your own nifty](http://www.thehindubusinessline.com/markets/forget-the-nifty-make-your-own-index-says-porinju-veliyath/article7896736.ece)", but still, sell-side research will continue to exist because individuals are too lazy and organizations need lambs.
 
