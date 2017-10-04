@@ -24,7 +24,7 @@ The journalist is little more than an [NPC](https://en.wikipedia.org/wiki/Non-pl
 
 Meanwhile, oligarchies of primary sources, in the form of closed whatsapp groups, clamour for the journalist's attention, blathering ad infinitum and at an intensity that leaves useful signal about as visible as a needle in a noisy haystack.
 
-At the other extreme are oligarchies of big ticket rating agencies, banks, and brokerages that produce research that  nudges financial media and the markets in much the same direction. [Kinks of financial journalism] (https://www8.gsb.columbia.edu/financialstudies/sites/financialstudies/files/News%26Finance_Diego%20Garcia_1.pdf) (pdf) aside, the whole system feels rigged in a way a single instance of a confirmation bias can round-trip and trigger disasterous multipliers before checks and balances kick in.
+At the other extreme are oligarchies of big ticket rating agencies, banks, and brokerages that produce research that  nudges financial media and the markets in much the same direction. [Kinks of financial journalism](https://www8.gsb.columbia.edu/financialstudies/sites/financialstudies/files/News%26Finance_Diego%20Garcia_1.pdf) (pdf) aside, the whole system feels rigged in a way a single instance of a confirmation bias can round-trip and trigger disasterous multipliers before checks and balances kick in.
 
 News expires more rapidly than most people think, but the sell-side analyst hardly cares, because his original research virtually renders him a market-maker in this derived information symmetry. 
 
@@ -62,4 +62,4 @@ I'm not saying lubricating the market's cogs with "premium mediocre" snake oil i
 - [Determinants of the Informativeness of Analyst Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=304483)
 - [Research Analysts Add Value: Here’s Proof](https://blogs.cfainstitute.org/investor/2017/01/11/research-analysts-add-value-heres-proof/)
 - [Do Analysts Add Value when they Most Can?](http://www.hbs.edu/faculty/Publication%20Files/10-102.pdf)
-- [Analyst Target Prices and Forecast Accuracy around the World](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiknvSQw9bWAhXLtY8KHQ3LDj4QFggnMAA&url=http%3A%2F%2Fwww.rotman.utoronto.ca%2FFacultyAndResearch%2FAcademicAreas%2FAccounting%2F-%2Fmedia%2FFiles%2FPrograms-and-Areas%2FAccounting%2FAcademicPapers%2FHTan.pdf&usg=AOvVaw3z8wQTcevd1PlILSqZfbQS) 
+- [Analyst Target Prices and Forecast Accuracy around the World](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiknvSQw9bWAhXLtY8KHQ3LDj4QFggnMAA&url=http%3A%2F%2Fwww.rotman.utoronto.ca%2FFacultyAndResearch%2FAcademicAreas%2FAccounting%2F-%2Fmedia%2FFiles%2FPrograms-and-Areas%2FAccounting%2FAcademicPapers%2FHTan.pdf&usg=AOvVaw3z8wQTcevd1PlILSqZfbQS)
