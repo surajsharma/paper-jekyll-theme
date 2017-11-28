@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-Thanks for visiting site!
+Thanks for dropping by!
 
 I'm a financial journalist handling technology, media, and telecom sectors with [Cogencis](http://cogencis.com), India's first financial data and news wire. You may check out my <a href="https://in.linkedin.com/in/surajsharma21" data-network="LinkedIn" data-proofer-ignore>LinkedIn</a> for details. 
 
