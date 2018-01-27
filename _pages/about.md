@@ -10,7 +10,7 @@ Thanks for dropping by!
 
 I'm a [software developer](https://github.com/surajsharma) and a financial journalist handling technology, media, and telecom sectors for [Cogencis](http://cogencis.com), India's first financial data and news wire. 
 
-In an earlier lives, I used to be a [poet](surajsharma.blogspot.in), aspiring diplomat, content strategist, a government clerk, a computer repair boy, a music reviewer etcetera, feel free to check out my profile on [LinkedIn](https://in.linkedin.com/in/surajsharma21) for more professional details. 
+In my earlier lives, I used to be a [poet](surajsharma.blogspot.in), aspiring diplomat, content strategist, a government clerk, a computer repair boy, a music reviewer etcetera, feel free to check out my profile on [LinkedIn](https://in.linkedin.com/in/surajsharma21) for more professional details. 
 
 Download my latest CV [here](https://drive.google.com/file/d/1gx-i23VMyU45YXUnYt9E-dHiLubXKkKp/view?usp=sharing) and more samples of my business-related writing, you can view my [muckrack profile](muckrack.com/surajsharma).
 
