@@ -7,7 +7,6 @@ tags: 'personal, career, hobbies'
 ---
 Thanks for dropping by!
 
-
 I'm a [software developer](https://github.com/surajsharma) and a financial journalist handling technology, media, and telecom sectors for [Cogencis](http://cogencis.com), India's first financial data and news wire. 
 
 In my earlier lives, I've been a [poet](surajsharma.blogspot.in), aspiring diplomat, content strategist, a government clerk, a computer repair boy, and a [music](http://thesilentballet.com/reviews/Tape_-_Revelationes.html) [reviewer](http://thesilentballet.com/reviews/Stephan_Mathieu_-_A_Static_Place.html) etcetera, feel free to check out my profile on [LinkedIn](https://in.linkedin.com/in/surajsharma21) for more professional details. 
@@ -17,6 +16,8 @@ Download my latest CV [here](https://drive.google.com/file/d/1gx-i23VMyU45YXUnYt
 As a card-carrying generalist, I believe in a world where letter openers and Swiss Army knives co-exist, the latter may be more expensive and less useful, but they're portable and add diversity to the ecosystem of tools.
 
 I'd love to hear your feedback on this site and my work.
+
+![](http://i.imgur.com/LjcPv.png)
 
 ----
 
