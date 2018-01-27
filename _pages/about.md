@@ -6,7 +6,7 @@ published: true
 ---
 Thanks for dropping by!
 
-![In another life, I used to be a poet.]({{site.baseurl}}/http://i.imgur.com/CQZWo.png)
+![In another life, I used to be a poet.]('http://i.imgur.com/CQZWo.png')
 
 I'm a [software developer](https://github.com/surajsharma) and a financial journalist handling technology, media, and telecom sectors for [Cogencis](http://cogencis.com), India's first financial data and news wire. You may check out my <a href="https://in.linkedin.com/in/surajsharma21" data-network="LinkedIn" data-proofer-ignore>LinkedIn</a> for more professional details. 
 
