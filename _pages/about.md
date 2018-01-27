@@ -8,7 +8,7 @@ Thanks for dropping by!
 
 ![In another life, I used to be a poet.]({{site.baseurl}}/http://i.imgur.com/CQZWo.png)
 
-I'm a full stack developer and a financial journalist handling technology, media, and telecom sectors for [Cogencis](http://cogencis.com), India's first financial data and news wire. You may check out my <a href="https://in.linkedin.com/in/surajsharma21" data-network="LinkedIn" data-proofer-ignore>LinkedIn</a> for more professional details. 
+I'm a [software developer](https://github.com/surajsharma) and a financial journalist handling technology, media, and telecom sectors for [Cogencis](http://cogencis.com), India's first financial data and news wire. You may check out my <a href="https://in.linkedin.com/in/surajsharma21" data-network="LinkedIn" data-proofer-ignore>LinkedIn</a> for more professional details. 
 
 Download my latest CV [here](https://drive.google.com/open?id=1hogSmmY5-KkkUTNaVcSvTYxzCUGEzXUj) and view a sample of my writing (as a journalist) [here](https://drive.google.com/file/d/0B_HwcsMkhATmZ1l4V29NdXdIRmc/view?usp=sharing). For more samples of my business-related writing, you can view my [muckrack profile](muckrack.com/surajsharma).
 
