@@ -26,5 +26,6 @@ This site was is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](htt
 
 ----
 
-### For Stalkers:
+### I'm (barely) social
 - [Instagram](https://www.instagram.com/surajbegins)
+- [Twitter](https://www.twitter.com/zeusraj)
