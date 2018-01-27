@@ -17,7 +17,7 @@ As a card-carrying generalist, I believe in a world where letter openers and Swi
 
 I'd love to hear your feedback on this site and my work.
 
-![](http://i.imgur.com/LjcPv.png) ![http://i.imgur.com/cNKvt.png]
+![](http://i.imgur.com/LjcPv.png) ![](http://i.imgur.com/cNKvt.png)
 
 ----
 
