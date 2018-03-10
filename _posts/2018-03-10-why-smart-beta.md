@@ -69,6 +69,6 @@ But alternative weightage is only one part of the binary as described to us by t
 
 + _Returns from Illiquid/Private markets_: But perhaps, the saving grace of smart beta is in it's utility in specific markets like real estate and infrastructure. I know, these are the slowest moving beasts in the jungle but they're HUGE! and offer great risk-return ratio. Because they are huge they are more amenable to factorisation, and because they are slow, they're more predictable, less uncertain. 
 
-My initial hesitation to smart beta made me ask myself [why the finance industry is so sexist](https://www.cbsnews.com/news/why-is-the-finance-industry-so-sexist/) that the word that describes our holy grail is also the word that describes the zenith of maleness? I don't know the answer, but I don't get to hooked up on nomenclature, and [ignore labels like the plague](https://www.verywellmind.com/what-is-the-halo-effect-2795906).
+My initial hesitation to smart beta made me ask myself [why the finance industry is so sexist](https://www.cbsnews.com/news/why-is-the-finance-industry-so-sexist/) that the word that describes our holy grail is also the word that describes the zenith of masculinity? I don't know the answer, but I don't get to hooked up on nomenclature, and [ignore labels like the plague](https://www.verywellmind.com/what-is-the-halo-effect-2795906).
 
 Come to think of it, nomenclature in technology is [only slightly less offending](https://en.wikipedia.org/wiki/Software_release_life_cycle), and then we wonder why girls aren't joining STEM.
