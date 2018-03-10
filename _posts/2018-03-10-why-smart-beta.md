@@ -35,7 +35,7 @@ While it is not my intention to formalize a proper definition of "smart beta as 
 
 + _Unconventional_: so?
 
-+ _Criticised for delivering sub-optimal returns_: as i said, the term itself is largely a lumpy synthesis of experiments that perhaps showed promise in the twinkle of some naive CTAs eyes, but failed to register with the market, or were given up on too soon. Since nobody has cultivated the practice of smart beta (at least not as long as people have chased alpha), criticising it is the equivalent of putting all the shit students in the same class so the teacher can give them all 'C's.
++ _Criticised for delivering sub-optimal returns_: as I said, the term itself is largely a lumpy synthesis of experiments that perhaps showed promise in the twinkle of some naive CTAs eyes, but failed to register with the market, or were given up on too soon. Since nobody has cultivated the practice of smart beta (at least not as long as people have chased alpha), criticising it is the equivalent of putting all the shit students in the same class so the teacher can give them all 'C's.
 Besides, there are other trading issues discussed below.
 
 + _Rules_: 
