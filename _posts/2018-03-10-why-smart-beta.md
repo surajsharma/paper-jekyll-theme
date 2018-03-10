@@ -55,7 +55,7 @@ This all seems fair, even if you want to capture "systematic bias" in the market
 
 FTSE Russell goes on to say "In general terms, smart beta indexes depart from the standard methodology of weighting constituents by their market capitalization in order to reflect a variety of different objectives", ok, so more indexing. I mean, how hard can it be to come up with new weights for an index this day and age? I'm sure that there are interesting and profitable ways to do this, but once done, how often do these weights get changed?
 
-But alternative weightage is only one part of the binary as described to us by the experts, the other, is are factor indexes. 
+But alternative weightage is only one part of the binary as described to us by the experts, the other, are factor indexes. 
 
 + _Based on measures such as volatility or dividends_: the other kind of smart beta indices, or Factor indexes, capture the return of factors which have historically demonstrated excess market returns [over the long run](https://www.msci.com/factor-indexes). This is perhaps the more active kind of smart beta, and probably where it gets the "smart" from but even this isn't exactly "active", and hovers in the centre-left of the venn's naval.
 
