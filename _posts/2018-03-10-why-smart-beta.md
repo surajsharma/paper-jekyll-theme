@@ -53,7 +53,7 @@ When you look at the venn above, you must think to yourself, that at least some 
 
 This all seems fair, even if you want to capture "systematic bias" in the market, except that there is nothing about this anatomy that indicates "active" management style. Might as well call this smart indexing (i'm sure that exists too). 
 
-FTSE Russell goes on to say "In general terms, smart beta indexes depart from the standard methodology of weighting constituents by their market capitalization in order to reflect a variety of different objectives", ok, so more indexing. I mean, how hard can it be to come up with new weights for an in this day and age? I'm sure that there are interesting and profitable ways to do this, but once done, how often do these weights get changed?
+FTSE Russell goes on to say "In general terms, smart beta indexes depart from the standard methodology of weighting constituents by their market capitalization in order to reflect a variety of different objectives", ok, so more indexing. I mean, how hard can it be to come up with new weights for an index this day and age? I'm sure that there are interesting and profitable ways to do this, but once done, how often do these weights get changed?
 
 But alternative weightage is only one part of the binary as described to us by the experts, the other, is are factor indexes. 
 
@@ -61,7 +61,7 @@ But alternative weightage is only one part of the binary as described to us by t
 
 ![](http://www.ftserussell.com/sites/default/files/anatomy-smart-beta-fig3.png)
 
-+ _Designed to take advantage of perceived systematic biases or inefficiencies in the market_: it's the word "systematic" that irks me here. We get too emotionally tied to the systems we create, we get hemmed in or crowded out by them. Perhaps someone someday will make an "emergent systematic" factor index with meta-factors that control the weightage of actual factors, and tie it all up in a neat little python algorithm, now that would be a truly smart beta index with a variable holding period.
++ _Designed to take advantage of perceived systematic biases or inefficiencies in the market_: it's the word "systematic" that irks me here. We get too emotionally tied to the systems we create, we get hemmed in or crowded out by them. Perhaps someone someday will make an "emergent systematic" factor index with meta-factors that control the weightage of actual factors, and tie it all up in a neat little python algorithm, now that would be a truly smart beta index with a variable holding period (has someone done this?).
  
 + _Cost_: I don't know anything about this, always assume you're paying too much. I don't think I'm writing for the people who buy blackrock ETFs, I'm writing for the average Joe trader trying to get better returns and for him, I see smart beta as essentially an active play on high volatility, in troubled times you want affection more than sex, right? Name your price.
 
@@ -69,6 +69,6 @@ But alternative weightage is only one part of the binary as described to us by t
 
 + _Returns from Illiquid/Private markets_: But perhaps, the saving grace of smart beta is in it's utility in specific markets like real estate and infrastructure. I know, these are the slowest moving beasts in the jungle but they're HUGE! and offer great risk-return ratio. Because they are huge they are more amenable to factorisation, and because they are slow, they're more predictable, less uncertain. 
 
-My initial hesitation to smart beta made me ask myself [why the finance industry so sexist](https://www.cbsnews.com/news/why-is-the-finance-industry-so-sexist/) that the word that describes our holy grail is also the word that describes the zenith of maleness? I don't know the answer, but I don't get to hooked up on nomenclature, and [ignore labels like the plague](https://www.verywellmind.com/what-is-the-halo-effect-2795906).
+My initial hesitation to smart beta made me ask myself [why the finance industry is so sexist](https://www.cbsnews.com/news/why-is-the-finance-industry-so-sexist/) that the word that describes our holy grail is also the word that describes the zenith of maleness? I don't know the answer, but I don't get to hooked up on nomenclature, and [ignore labels like the plague](https://www.verywellmind.com/what-is-the-halo-effect-2795906).
 
 Come to think of it, nomenclature in technology is [only slightly less offending](https://en.wikipedia.org/wiki/Software_release_life_cycle), and then we wonder why girls aren't joining STEM.
