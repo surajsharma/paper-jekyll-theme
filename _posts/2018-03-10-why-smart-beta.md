@@ -61,7 +61,7 @@ But alternative weightage is only one part of the binary as described to us by t
 
 ![](http://www.ftserussell.com/sites/default/files/anatomy-smart-beta-fig3.png)
 
-+ _Designed to take advantage of perceived systematic biases or inefficiencies in the market_: it's the word "systematic" that irks me here. We get too emotionally tied to the systems we create, we get hemmed in or crowded out by them. Perhaps someone someday will make an "emergent systematic" factor index with meta-factors that control the weightage of actual factors, and tie it all up in a neat little python algorithm, now that would be a truly smart beta index with a variable holding period (has someone done this?).
++ _Designed to take advantage of perceived systematic biases or inefficiencies in the market_: it's the word "systematic" that irks me here. We get too emotionally tied to the systems we create, we get hemmed in or crowded out by them. Perhaps someone someday will make an "emergent systematic" factor index with meta-factors that control the weightage of actual factors, and tie it all up in a neat little C++ algorithm, now that would be a truly smart beta index with a variable holding period (has someone done this?).
  
 + _Cost_: I don't know anything about this, always assume you're paying too much. I don't think I'm writing for the people who buy blackrock ETFs, I'm writing for the average Joe trader trying to get better returns and for him, I see smart beta as essentially an active play on high volatility, in troubled times you want affection more than sex, right? Name your price.
 
