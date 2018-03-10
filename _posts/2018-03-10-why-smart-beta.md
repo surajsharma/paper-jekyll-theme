@@ -8,7 +8,7 @@ published: true
 There are thy cattle there thy wife, O gambler. So this good Savitar himself hath told me. - RV 10.34, "Gambler's Lament"
 
 
-When I first heard of the phrase "[smart beta](http://lexicon.ft.com/Term?term=smart-beta)", I thought it to be more an alt-right neologism for verbal violence than an investment stragtey. After some initial hesitation, I dived into it and found a bunch of slimy concepts thrown together and given a label that offends my testosterone at a molecular level, but since I am not my testosterone, I trudged on.
+When I first heard of the phrase "[smart beta](http://lexicon.ft.com/Term?term=smart-beta)", I thought it to be more an alt-right neologism for verbal violence than an investment strategy. After some initial hesitation, I dived into it and found a bunch of slimy concepts thrown together and given a label that offends my testosterone at a molecular level, but since I am not my testosterone, I trudged on.
 
 Knowing that I had available to me the flexibility of approach, I started looking for strategies under the umbrella. Here's a list of what I found (from the FT definition):
 
