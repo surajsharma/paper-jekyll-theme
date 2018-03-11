@@ -10,7 +10,7 @@ There are thy cattle there thy wife, O gambler. So this good Savitar himself hat
 
 When I first heard of the phrase "[smart beta](http://lexicon.ft.com/Term?term=smart-beta)", I thought it to be more an alt-right neologism for verbal violence than an investment strategy. After some initial hesitation, I dived into it and found a bunch of slimy concepts thrown together and given a label that offends my testosterone at a molecular level, but since I am not my testosterone, I trudged on.
 
-Knowing that I had available to me the flexibility of approach, I started looking for strategies under the umbrella. Here's a list of what I found (from the FT definition):
+Here's a list of what I found FT had to say about smart beta:
 
 - No strict definition, elusive term
 - Rules based investment strategies 
@@ -27,18 +27,18 @@ Knowing that I had available to me the flexibility of approach, I started lookin
 - Naive
 - Returns from illiquid or private markets
 
-While it is not my intention to formalize a proper definition of "smart beta as an investment strategy", I'm barely qualified to even write this, but what I can do is pick apart the concept and definition for you to stitch together, so here we go:
+Let's leave the formalizing of a proper definition of "smart beta as an investment strategy" to the acedemics, I'm barely qualified to write even this, but what I can do is pick apart the concept and definition for you to stitch together, so here we go:
 
-+ _No strict definition_: who cares? as if alpha/beta binary is defined so properly as to never cause an argument?
++ _No strict definition_: since when did strategies need a strict definition?
 
 + _Elusive_: maybe for some, but then, not all strategies are for everyone.
 
-+ _Unconventional_: so?
++ _Unconventional_: So?
 
-+ _Criticised for delivering sub-optimal returns_: as I said, the term itself is largely a lumpy synthesis of experiments that perhaps showed promise in the twinkle of some naive CTAs eyes, but failed to register with the market, or were given up on too soon. Since nobody has cultivated the practice of smart beta (at least not as long as people have chased alpha), criticising it is the equivalent of putting all the shit students in the same class so the teacher can give them all 'C's.
++ _Criticised for delivering sub-optimal returns_: as I said, the term seems to represent a lumpy synthesis of experiments that perhaps showed promise in the twinkle of some naive CTAs eyes, but failed to register with the market, or were given up on too soon. Criticising it would be the equivalent of putting all the shit students in the same class so the teacher can give them all 'C's.
 Besides, there are other trading issues discussed below.
 
-+ _Rules_: 
++ _Rules_: Ok 
 ![Rules based investment strategy](https://thumbs.gfycat.com/GrizzledDisguisedBongo-size_restricted.gif)
 
 + _Alternative weighting schemes_: Ok, so smart beta strategies sit between active and passive ones as illustrated in the diagram below:
@@ -51,9 +51,9 @@ When you look at the venn above, you must think to yourself, that at least some 
 - clear governance procedures
 - offer access to a broad range of markets and asset classes
 
-This all seems fair, even if you want to capture "systematic bias" in the market, except that there is nothing about this anatomy that indicates "active" management style. Might as well call this smart indexing (i'm sure that exists too). 
+This all seems fair, even if you want to capture "systematic bias" in the market, except that there is nothing about this anatomy that encourages an "active" management style. Might as well call this smart indexing (I'm sure that exists too). 
 
-FTSE Russell goes on to say "In general terms, smart beta indexes depart from the standard methodology of weighting constituents by their market capitalization in order to reflect a variety of different objectives", ok, so more indexing. I mean, how hard can it be to come up with new weights for an index this day and age? I'm sure that there are interesting and profitable ways to do this, but once done, how often do these weights get changed?
+FTSE Russell goes on to say, "In general terms, smart beta indexes depart from the standard methodology of weighting constituents by their market capitalization in order to reflect a variety of different objectives", ok, so more indexing. I mean, how hard can it be to come up with new weights for an index this day and age? I'm sure that there are interesting and profitable ways to do this, but once done, how often do these weights get changed?
 
 But alternative weightage is only one part of the binary as described to us by the experts, the other, are factor indexes. 
 
@@ -61,7 +61,10 @@ But alternative weightage is only one part of the binary as described to us by t
 
 ![](http://www.ftserussell.com/sites/default/files/anatomy-smart-beta-fig3.png)
 
-+ _Designed to take advantage of perceived systematic biases or inefficiencies in the market_: it's the word "systematic" that irks me here. We get too emotionally tied to the systems we create, we get hemmed in or crowded out by them. Perhaps someone someday will make an "emergent systematic" factor index with meta-factors that control the weightage of actual factors, and tie it all up in a neat little C++ algorithm, now that would be a truly smart beta index with a variable holding period (has someone done this?).
++ _Designed to take advantage of perceived systematic biases or inefficiencies in the market_: it's the word "systematic" that irks me here. We get too emotionally tied to the systems we create, we get hemmed in or crowded out by them. Systems are for people who identify with 
+
+
+Perhaps someone someday will make an "emergent systematic" factor index with meta-factors that control the weightage of actual factors, and tie it all up in a neat little C++ algorithm, now that would be a truly smart beta index with a variable holding period (has someone done this?).
  
 + _Cost_: I don't know anything about this, always assume you're paying too much. I don't think I'm writing for the people who buy Blackrock ETFs (you can call a $2.5 trillion ETF [anything](https://www.ishares.com/), it doesn't matter),  I'm writing for the average Joe trader trying to get better returns and for him, I see smart beta as essentially an active play on high volatility. In troubled times you want affection more than sex, right? Name your price. But if I were to talk to a fund manager about smart beta, I'd probably say something about the [blue ocean strategy](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy), I think that'd make sense because I think that  there are fresh ideas on the borders of active and passive investing that are undervalued.
 
