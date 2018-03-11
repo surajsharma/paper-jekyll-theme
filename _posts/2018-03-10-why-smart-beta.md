@@ -29,7 +29,7 @@ Here's a list of what I found FT had to say about smart beta:
 
 Let's leave the formalizing of a proper definition of "smart beta as an investment strategy" to the acedemics, I'm barely qualified to write even this, but what I can do is pick apart the concept and definition for you to stitch together, so here we go:
 
-+ _No strict definition_: since when did strategies need a strict definition?
++ _No strict definition_: since when?
 
 + _Elusive_: maybe for some, but then, not all strategies are for everyone.
 
