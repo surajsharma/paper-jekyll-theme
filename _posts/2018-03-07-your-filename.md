@@ -14,7 +14,6 @@ Accepting this definition presents us with the possibility that it might be true
 Add value or ship product, otherwise you're not growing, if you're not growing. 
 
 
-
 you may as well be dead. Your existence as an individual, community, or sovereign is nil. Why are you still here?
 
 Not a very nice way to put things, is it? Yet isn't this how we're running things nowadays?
@@ -22,4 +21,3 @@ Not a very nice way to put things, is it? Yet isn't this how we're running thing
 Then there were the communists, eastern mystics, and others who considered individuality as a sacrificial lamb at the altar of equality. Their definition was: add value or ship product, you're not growing.
 
 And these, we were told, are the only two brands of cigarettes you could smoke.
-
