@@ -17,4 +17,4 @@ How could I [graduate](https://www.youtube.com/watch?v=gmrC_Pij5gc) out of this 
 
 Friends and family, themselves polarised by the surge of news and emotions about me, wouldn't be of much help. Answering existential questions, at any level of complexity, at any age, are your own responsiblity. 
 
-[and I did](https://surajsharma.github.io/2017/09/borges).
+and I did.
