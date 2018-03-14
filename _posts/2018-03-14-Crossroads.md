@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > Soul is the prison of the body - Michel Foucault
 
