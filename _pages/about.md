@@ -7,7 +7,7 @@ tags: 'personal, career, hobbies'
 ---
 Thank you for dropping by!
 
-I'm a candidate for humanity who used to work as a financial journalist and [software developer](https://github.com/surajsharma) handling technology, media, and telecom sectors for [Cogencis](http://cogencis.com), India's first financial data and news wire. 
+I'm a candidate for humanity who used to work as a financial journalist for [Cogencis](http://cogencis.com), India's first financial data and news wire. 
 
 In my earlier lives, I was (in no particular order), a [poet](surajsharma.blogspot.in), a ghostwriter, an aspiring diplomat, a content strategist, a government clerk, a computer repair boy, a [music](http://thesilentballet.com/reviews/Tape_-_Revelationes.html) [reviewer](http://thesilentballet.com/reviews/Stephan_Mathieu_-_A_Static_Place.html) etcetera. Check out my profile on [LinkedIn](https://in.linkedin.com/in/surajsharma21) for more professional details. 
 
