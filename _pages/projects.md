@@ -11,7 +11,7 @@ published: true
 
 |                             |                 |
 | ----------------------------|:---------------:|
-| [Socratease](https://www.socratease.in) - An Edtech-as-a-Service product. A White-labelled solution that provides Content Hosting and Delivery, E-learning Web and Mobile Apps, Student and Classroom Management, and Analytics. You give us your content, we will give you a full-fledged Digital Learning Product.   ****Stack****: Python, Flask, Jinja, React, JS | ![Socratease](https://puu.sh/EeVdy/7dc21d7e2a.png)|
+| [Socratease](https://www.socratease.in) - An Edtech-as-a-Service product. A White-labelled solution that provides Content Hosting and Delivery, E-learning Web and Mobile Apps, Student and Classroom Management, and Analytics. You give us your content, we will give you a full-fledged Digital Learning Product.   **Stack**: Python, Flask, Jinja, React, JS | ![Socratease](https://puu.sh/EeVdy/7dc21d7e2a.png)|
 
 - #### Ballyhoo
 
