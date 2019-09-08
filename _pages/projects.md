@@ -29,7 +29,7 @@ published: true
 |             |      |
 | [Match-The-Following](https://codepen.io/surajs1/pen/mYXeWJ) - A match-the-following game written in [p5js](https://p5js.org). | ![Match The Following](https://puu.sh/EeRgk/34b003699b.png) |
 |             |      |
-| [Learning Progress](https://learncsprogress.herokuapp.com) - A github-like progress tracker for learning and habit-building, using google sheets as a backend. | ![Learning](https://puu.sh/EeRkX/58f4a3ace2.png) |
+| [Learning Progress](https://learncsprogress.herokuapp.com) - A github-like progress tracker for learning and habit-building, using google sheets as a backend. | ![Learning](https://puu.sh/EeRmN/2f9e6490c6.png) |
 |             |      |
 | [React-Calc](https://codepen.io/surajs1/pen/eQLNYb) - A dual-themed calculator written in react. | ![Calculator](https://puu.sh/EeRe6/7d79a37ad5.png) |
 |             |      |
