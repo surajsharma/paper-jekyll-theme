@@ -17,14 +17,19 @@ published: true
 
 ### Experiments
 
-- [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/)
-A dashboard to view the performance of ~30,000 Mutual Funds in India
-![AMFII Dashboard](https://puu.sh/EeQBV/b1b45774a2.png)
+| Project        |            |
+| -------------------------- |:---------------:|
+| [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/) - A dashboard to view the performance of ~30,000 Mutual Funds in India                   | ![AMFII Dashboard](https://puu.sh/EeQBV/b1b45774a2.png) |
+| [Candlestick Chart](https://github.com/surajsharma/Candlestick-Chart) a simple React/D3/[D3FC](https://d3fc.io/) based toy app I built to teach myself the basics.                   | ![Chart](https://puu.sh/EeQfy/edc5cb96bc.png)      |
+| zebra stripes              | are neat      |
 
 
 
-- [Candlestick Chart](https://github.com/surajsharma/Candlestick-Chart) a simple React/D3/[D3FC](https://d3fc.io/) based toy app I built to teach myself the basics. 
-![Chart](https://puu.sh/EeQfy/edc5cb96bc.png)
+
+
+
+-  
+
 
 
 ----
