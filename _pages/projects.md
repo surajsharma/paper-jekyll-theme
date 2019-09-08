@@ -34,6 +34,10 @@ published: true
 | [React-Calc](https://codepen.io/surajs1/pen/eQLNYb) - A dual-themed calculator written in react. | ![Calculator](https://puu.sh/EeRe6/7d79a37ad5.png) |
 |             |      |
 | [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EeR5P/527b86e0f3.png) |
+|             |      |
+| [REDUX CRUD Demo](https://github.com/surajsharma/reduxcrud) - A minimal Redux app with CRUD functionality, built while learning Redux| ![ReduxCRUD](https://surajsharma.github.io/reduxcrud) |
+|             |      |
+| [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EeR5P/527b86e0f3.png) |
 
 ----
 
@@ -50,4 +54,3 @@ published: true
 
 - [BlackBar](https://github.com/surajsharma/BLACKBAR): a dark, small theme for [Launchbar](https://www.obdev.at/products/launchbar/index.html)
 ![blackbar](https://puu.sh/EeMcS/3bcb97deec.png)
-
