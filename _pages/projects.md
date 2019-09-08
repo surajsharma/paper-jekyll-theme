@@ -29,7 +29,7 @@ published: true
 |             |      |
 | [MERN Login](https://loginpages.glitch.me) - This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages. | ![React-Table](https://puu.sh/EeR4Q/b6904b2ea6.png) |
 |             |      |
-| [Match-The-Following](https://codepen.io/surajs1/pen/mYXeWJ) - A match-the-following game written in [p5js](https://p5js.org). | ![Match The Following](https://puu.sh/EeRgk/34b003699b.png) |
+| [Match-The-Following](https://codepen.io/surajs1/pen/mYXeWJ) - A match-the-following game written in [p5js](https://p5js.org). | ![Match The Following](https://puu.sh/EeRgk/34b003699b.png)|
 |             |      |
 | [Learning Progress](https://learncsprogress.herokuapp.com) - A github-like progress tracker for learning and habit-building, using google sheets as a backend. | ![Learning](https://puu.sh/EeRmN/2f9e6490c6.png) |
 |             |      |
