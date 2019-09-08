@@ -26,7 +26,14 @@ published: true
 | [React-Table Dashboard](https://github.com/surajsharma/react-table) - A datagrid based off of the excellent [React-Table](https://github.com/tannerlinsley/react-table) component implemented with [json-server](https://github.com/typicode/json-server).| ![React-Table](https://puu.sh/EeQPm/7e1535e6b4.png) |
 |             |      |
 | [MERN Login](https://loginpages.glitch.me) - This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages. | ![React-Table](https://puu.sh/EeR4Q/b6904b2ea6.png) |
-| zebra stripes              | are neat      |
+|             |      |
+| [Match-The-Following](https://codepen.io/surajs1/pen/mYXeWJ) - A match-the-following game written in p5js. | ![Match The Following](https://puu.sh/EeRgk/34b003699b.png) |
+|             |      |
+| [Learning Progress](https://learncsprogress.herokuapp.com) - A github-like progress tracker for learning and habit-building, using google sheets as a backend. | ![Learning](https://puu.sh/EeRkX/58f4a3ace2.png) |
+|             |      |
+| [React-Calc](https://codepen.io/surajs1/pen/eQLNYb) - A dual-themed calculator written in react. | ![Calculator](https://puu.sh/EeRe6/7d79a37ad5.png) |
+|             |      |
+| [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EeR5P/527b86e0f3.png) |
 
 ----
 
