@@ -21,6 +21,8 @@ published: true
 | ----------------------------|:---------------:|
 | [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/) - A dashboard to view the performance of ~30,000 Mutual Funds in India. NAV data from AMFII Website, Time series chart data from Quandl. | ![AMFII Dashboard](https://puu.sh/EeQBV/b1b45774a2.png) |
 |            |      |
+| [Video Questions](#) - A JSON/Javascript program that interactively starts/stops a video, asks a question, and continues or loops back to a given time depending on whether the answer was correct or wrong. No link as the software is property of [Socratease](socratease.in). Patent Pending. | ![Video Questions](https://puu.sh/EeRvE/9e39a9a8c4.png) |
+|            |      |
 | [Candlestick Chart](https://github.com/surajsharma/Candlestick-Chart) - A simple React/D3/[D3FC](https://d3fc.io/) based toy app I built to teach myself the basics. | ![Chart](https://puu.sh/EeQfy/edc5cb96bc.png) |
 |             |      |
 | [React-Table Dashboard](https://github.com/surajsharma/react-table) - A datagrid based off of the excellent [React-Table](https://github.com/tannerlinsley/react-table) component implemented with [json-server](https://github.com/typicode/json-server).| ![React-Table](https://puu.sh/EeQPm/7e1535e6b4.png) |
@@ -35,9 +37,9 @@ published: true
 |             |      |
 | [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EeR5P/527b86e0f3.png) |
 |             |      |
-| [REDUX CRUD Demo](https://github.com/surajsharma/reduxcrud) - A minimal Redux app with CRUD functionality, built while learning Redux| ![ReduxCRUD](https://surajsharma.github.io/reduxcrud) |
+| [REDUX CRUD Demo](https://github.com/surajsharma/reduxcrud) - A minimal Redux app with CRUD functionality, built while learning Redux| ![ReduxCRUD](https://puu.sh/EeRrE/50b7abe21a.png) |
 |             |      |
-| [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EeR5P/527b86e0f3.png) |
+| [MERN CMS]() - A bare-bones MERN CMS/CRUD app built as an interview test for [ZOLO](https://zolostays.com) | ![CMS](https://puu.sh/EeRuD/ce6ccad28d.png) |
 
 ----
 
