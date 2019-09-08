@@ -5,7 +5,10 @@ permalink: /projects/
 published: true
 ---
 
-![blackbar](https://puu.sh/CuyNI/48fd4fabc7.png)
+
+
+
+![blackbar](https://puu.sh/EeMcS/3bcb97deec.png)
 - [BlackBar](https://github.com/surajsharma/BLACKBAR): a dark, small theme for [Launchbar](https://www.obdev.at/products/launchbar/index.html)
 
 
