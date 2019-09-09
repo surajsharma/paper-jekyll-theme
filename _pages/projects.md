@@ -12,6 +12,7 @@ published: true
 |                             |                 |
 | ----------------------------|:---------------:|
 | [Socratease](https://www.socratease.in) - An Edtech-as-a-Service product. A White-labelled solution that provides Content Hosting and Delivery, E-learning Web and Mobile Apps, Student and Classroom Management, and Analytics. You give us your content, we will give you a full-fledged Digital Learning Product.   **Stack**: Python, Flask, Jinja, React, JS | ![Socratease](https://puu.sh/EeVdy/7dc21d7e2a.png)|
+|            |      |
 | [Ballyhoo](https://ballyhoo.today) - An e-commerce portal for making reservations and enabling loyalty programs of restaurants, and for booking tickets toevents in cities across India. **Stack**: Node, React, Redux| ![Ballyhoo](https://puu.sh/Ef0WM/68af03a113.png)|
 
 
