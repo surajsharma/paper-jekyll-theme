@@ -7,11 +7,11 @@ tags: 'personal, career, hobbies'
 ---
 Thank you for dropping by!
 
-I'm a candidate for humanity who used to work as a financial journalist for [Cogencis](http://cogencis.com), India's first financial data and news wire. 
+I'm a software developer based in Bengaluru who used to work as a financial journalist for [Cogencis](http://cogencis.com), India's first financial data and news wire. 
 
-In my earlier lives, I was (in no particular order), a [poet](surajsharma.blogspot.in), a ghostwriter, an aspiring diplomat, a content strategist, a government clerk, a computer repair boy, a [music](http://thesilentballet.com/reviews/Tape_-_Revelationes.html) [reviewer](http://thesilentballet.com/reviews/Stephan_Mathieu_-_A_Static_Place.html) etcetera. Check out my profile on [LinkedIn](https://in.linkedin.com/in/surajsharma21) for more professional details. 
+In my earlier lives, I was (in no particular order), a [poet](surajsharma.blogspot.in), a ghostwriter, a content strategist, a government clerk, a computer repair boy, a [music](http://thesilentballet.com/reviews/Tape_-_Revelationes.html) [reviewer](http://thesilentballet.com/reviews/Stephan_Mathieu_-_A_Static_Place.html) etc. Check out my profile on [LinkedIn](https://in.linkedin.com/in/surajsharma21) for more professional details. 
 
-You can also download my latest CV [here](https://bit.ly/2QATRIV), and for more samples of my business-related writing, you can view my [muckrack profile](http://www.muckrack.com/surajsharma).
+You can also download my latest CV [here](http://bit.ly/2N4B4Zd), and for more samples of my business-related writing, you can view my [muckrack profile](http://www.muckrack.com/surajsharma).
 
 As a card-carrying generalist, I believe in a world where letter openers and Swiss Army knives co-exist.
 
