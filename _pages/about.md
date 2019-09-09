@@ -19,12 +19,3 @@ I'd love to hear your feedback on this site and my work.
 
 ![](http://i.imgur.com/LjcPv.png) ![](http://i.imgur.com/cNKvt.png)
 
-----
-
-### The Website
-This site was is powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-
-----
-
-### I'm (barely) social
-- [Instagram](https://www.instagram.com/surajbegins)
