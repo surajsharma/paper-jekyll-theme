@@ -36,7 +36,7 @@ published: true
 |             |      |
 | [React-Calc](https://codepen.io/surajs1/pen/eQLNYb) - A dual-themed calculator written in react. | ![Calculator](https://puu.sh/EeRe6/7d79a37ad5.png) |
 |             |      |
-| [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EmGZH/c888180562.png) |
+| [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EnsYz/1dd698a67b.png) |
 |             |      |
 | [REDUX CRUD Demo](https://github.com/surajsharma/reduxcrud) - A minimal Redux app with CRUD functionality, built while learning Redux| ![ReduxCRUD](https://puu.sh/EeRrE/50b7abe21a.png) |
 |             |      |
