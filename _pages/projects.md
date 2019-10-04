@@ -13,10 +13,11 @@ published: true
 |            |      |
 | [Ballyhoo](https://ballyhoo.today) - An e-commerce portal for making reservations and enabling loyalty programs of restaurants, and for booking tickets to events in cities across India. **Stack**: Node, React, Redux| ![Ballyhoo](https://puu.sh/Ef1Kl/c33fc7e2c2.png)|
 
-----
-
 
 ### Experiments
+
+----
+
 
 |                             |                 |
 | ----------------------------|:---------------:|
@@ -42,18 +43,20 @@ published: true
 |             |      |
 | [MERN CMS]() - A bare-bones MERN CMS/CRUD app built as an interview test for [ZOLO](https://zolostays.com) | ![CMS](https://puu.sh/EeRuD/ce6ccad28d.png) |
 
-----
 
 
 ### Defunct/Deprecated
 
+----
+
 - [BBG Minus Context](https://twitter.com/BBGMinusContext) and [BBG Plus Context](https://twitter.com/BBGPlusContext): two (NOW DEFUNCT SINCE BLOOMBERG NEWS IS NO LONGER FREE TO SCRAPE) bots for Bloomberg [inspired](https://surajsharma.github.io/2018/03/Bots) by similar bots for the New York Times.
 
 
-----
-
 
 ### Customizations
+
+----
+
 
 - [BlackBar](https://github.com/surajsharma/BLACKBAR): a dark, small theme for [Launchbar](https://www.obdev.at/products/launchbar/index.html)
 ![blackbar](https://puu.sh/EeMcS/3bcb97deec.png)
