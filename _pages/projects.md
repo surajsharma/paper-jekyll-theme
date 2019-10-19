@@ -66,6 +66,6 @@ published: true
 ### Publications
 ---
 
-- [The key to study skills: Simple Strategies to Double Your Reading, Memory, and Focus](https://amzn.to/2Bsgj1D) 
+- [The key to study skills](https://amzn.to/2Bsgj1D) -  Simple Strategies to Double Your Reading, Memory, and Focus
 
 - [The Escapist's Propaganda](https://amzn.to/33NlMfR) -  An anthology of my poems.
