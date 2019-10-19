@@ -5,7 +5,7 @@ permalink: /projects/
 published: true
 ---
 
-### In Production
+### ⚙️ In Production
 
 |                             |                 |
 | ----------------------------|:---------------:|
@@ -14,7 +14,7 @@ published: true
 | [Ballyhoo](https://ballyhoo.today) - An e-commerce portal for making reservations and enabling loyalty programs of restaurants, and for booking tickets to events in cities across India. **Stack**: Node, React, Redux| ![Ballyhoo](https://puu.sh/Ef1Kl/c33fc7e2c2.png)|
 
 
-### Experiments
+### 🛠Experiments
 
 ----
 
@@ -45,7 +45,7 @@ published: true
 
 
 
-### Defunct/Deprecated
+### 💾 Defunct/Deprecated
 
 ----
 
@@ -53,7 +53,7 @@ published: true
 
 
 
-### Customizations
+### 🎁 Customizations
 
 ----
 
@@ -63,7 +63,7 @@ published: true
 
 
 
-### Publications
+### 📘 Publications
 ---
 
 - [The key to study skills](https://amzn.to/2Bsgj1D) -  Simple Strategies to Double Your Reading, Memory, and Focus
