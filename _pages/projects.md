@@ -60,3 +60,12 @@ published: true
 
 - [BlackBar](https://github.com/surajsharma/BLACKBAR): a dark, small theme for [Launchbar](https://www.obdev.at/products/launchbar/index.html)
 ![blackbar](https://puu.sh/EeMcS/3bcb97deec.png)
+
+
+
+### Publications
+---
+
+- [The key to study skills: Simple Strategies to Double Your Reading, Memory, and Focus](https://amzn.to/2Bsgj1D) 
+
+- [The Escapist's Propaganda](https://amzn.to/33NlMfR) -  An anthology of my poems.
