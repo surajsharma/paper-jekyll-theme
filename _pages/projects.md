@@ -9,7 +9,7 @@ published: true
 
 |                             |                 |
 | ----------------------------|:---------------:|
-| [Bombay Shirt Company](https://www.bombayshirts.com/) - A full-fledged React/Redux based e-commerce solution for Bombay Shirt Company. **Stack** Node, React, Redux, Express | ![BSC](https://imgur.com/tPPr2vL)|
+| [Bombay Shirt Company](https://www.bombayshirts.com/) - A full-fledged React/Redux based e-commerce solution for Bombay Shirt Company. **Stack** Node, React, Redux, Express | ![BSC](https://i.imgur.com/tPPr2vL.png)|
 |            |      |
 | [Socratease](https://www.socratease.in) - An Edtech-as-a-Service product. A White-labelled solution that provides Content Hosting and Delivery, E-learning Web and Mobile Apps, Student and Classroom Management, and Analytics. You give us your content, we will give you a full-fledged Digital Learning Product.   **Stack**: Python, Flask, Jinja, React, JS, SQL | ![Socratease](https://puu.sh/EeVdy/7dc21d7e2a.png)|
 |            |      |
