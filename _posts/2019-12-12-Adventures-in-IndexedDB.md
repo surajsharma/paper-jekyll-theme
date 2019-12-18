@@ -8,7 +8,7 @@ https://medium.com/@d3byte/combining-indexeddb-with-redux-can-t-be-that-easy-f08
 
 What are the other options?
 
-
+https://dev.to/adrienshen/indexeddb-with-push-notifications-aei
 
 Dexie.js
 A Minimalistic Wrapper for IndexedDB
