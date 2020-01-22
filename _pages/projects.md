@@ -13,7 +13,7 @@ published: true
 |            |      |
 | [Bombay Shirt Company](https://www.bombayshirts.com/) - A full-fledged React/Redux based e-commerce solution for Bombay Shirt Company. **Stack** Node, React, Redux, Express, IndexedDB, MongoDB | ![BSC](https://i.imgur.com/tPPr2vL.png)|
 |            |      |
-| [Ballyhoo](https://ballyhoo.today) - An e-commerce portal for making reservations and enabling loyalty programs of restaurants, and for booking tickets to events in cities across India. **Stack**: Node, React, Redux| ![Ballyhoo](https://puu.sh/Ef1Kl/c33fc7e2c2.png)|
+| [Ballyhoo](https://ballyhoo.today) - An e-commerce portal for making reservations and enabling loyalty programs of restaurants, and for booking tickets to events in cities across India. **Stack**: Node, React, Redux| ![Ballyhoo](https://puu.sh/F2sOz/f749c41510.png)|
 
 
 ### 🛠Experiments
@@ -23,7 +23,7 @@ published: true
 
 |                             |                 |
 | ----------------------------|:---------------:|
-| [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/) - A dashboard to view (**using Highcharts**) the performance of ~30,000 Mutual Funds in India. NAV data from AMFII Website, Time series chart data from Quandl. | ![AMFII Dashboard](https://puu.sh/EeQBV/b1b45774a2.png) |
+| [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/) - A dashboard to view (**using Highcharts**) the performance of ~30,000 Mutual Funds in India. NAV data from AMFII Website, Time series chart data from Quandl. | ![AMFII Dashboard](https://puu.sh/F2sPb/dab9c7c90f.png) |
 |            |      |
 | [Video Questions](#) - A JSON/Javascript program that interactively starts/stops a video, asks a question, and continues or loops back to a given time depending on whether the answer was correct or wrong. No link as the software is property of [Socratease](socratease.in). Patent Pending. | ![Video Questions](https://puu.sh/EeRvE/9e39a9a8c4.png) |
 |            |      |
