@@ -11,7 +11,7 @@ published: true
 | ----------------------------|:---------------:|
 | [Socratease](https://www.socratease.in) - An Edtech-as-a-Service product. A White-labelled solution that provides Content Hosting and Delivery, E-learning Web and Mobile Apps, Student and Classroom Management, and Analytics. You give us your content, we will give you a full-fledged Digital Learning Product.   **Stack**: Python, Flask, Jinja, React, JS, SQL | ![Socratease](https://puu.sh/EeVdy/7dc21d7e2a.png)|
 |            |      |
-| [Bombay Shirt Company](https://www.bombayshirts.com/) - A full-fledged React/Redux based e-commerce solution for Bombay Shirt Company. **Stack** Node, React, Redux, Express, IndexedDB, MongoDB | ![BSC](https://i.imgur.com/tPPr2vL.png)|
+| [Bombay Shirt Company](https://www.bombayshirts.com/) - A full-fledged React/Redux/Ruby based factory-to-store e-commerce solution for Bombay Shirt Company. **Stack** Node, React, Redux, Express, IndexedDB, MongoDB | ![BSC](https://i.imgur.com/tPPr2vL.png)|
 |            |      |
 | [Ballyhoo](https://ballyhoo.today) - An e-commerce portal for making reservations and enabling loyalty programs of restaurants, and for booking tickets to events in cities across India. **Stack**: Node, React, Redux| ![Ballyhoo](https://puu.sh/F2sOz/f749c41510.png)|
 
