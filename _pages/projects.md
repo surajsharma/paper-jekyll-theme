@@ -23,7 +23,7 @@ published: true
 
 |                             |                 |
 | ----------------------------|:---------------:|
-| [Crossword](https://github.com/surajsharma/Crossword) - A Simple Crossword puzzle in React| ![Crossword](https://puu.sh/Fdeny/aeff0a51bd.png) |
+| [Crossword](https://github.com/surajsharma/Crossword) - A Simple Crossword puzzle in React. SVG interals. Inspired by [this](https://github.com/zetter/react-crossword), and has all the same features.| ![Crossword](https://puu.sh/Fdeny/aeff0a51bd.png) |
 |            |      |
 | [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/) - A dashboard to view (**using Highcharts**) the performance of ~30,000 Mutual Funds in India. NAV data from AMFII Website, Time series chart data from Quandl. | ![AMFII Dashboard](https://puu.sh/F2sPb/dab9c7c90f.png) |
 |            |      |
