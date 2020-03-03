@@ -2,7 +2,7 @@
 layout: content
 title: Projects
 permalink: /projects/
-published: false
+published: true
 ---
 
 ### ⚙️ In Production
