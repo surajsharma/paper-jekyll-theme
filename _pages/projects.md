@@ -2,7 +2,8 @@
 layout: content
 title: Projects
 permalink: /projects/
-published: false
+published: true
+tags: 'personal, career, hobbies'
 ---
 
 ### ⚙️ In Production
