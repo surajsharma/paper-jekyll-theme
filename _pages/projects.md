@@ -2,7 +2,7 @@
 layout: content
 title: Projects
 permalink: /projects/
-published: false
+published: true
 ---
 
 ### ⚙️ In Production
@@ -23,7 +23,9 @@ published: false
 
 |                             |                 |
 | ----------------------------|:---------------:|
-| [Crossword](https://github.com/surajsharma/Crossword) - A Simple Crossword puzzle in React. SVG interals. Inspired by [this](https://github.com/zetter/react-crossword), and has all the same features. Here's a [video demo](https://youtu.be/TQP-IyItfXo).| ![Crossword](https://puu.sh/Fdeny/aeff0a51bd.png) |
+| [Crossword](https://github.com/surajsharma/Crossword) - A Simple Crossword puzzle in React. SVG interals. Inspired by [this](https://github.com/zetter/react-crossword), and has all the same features. Here's a [video demo](https://youtu.be/TQP-IyItfXo).| ![Crossword](https://camo.githubusercontent.com/a618b0db91d5d62dc851147c90506365561fd446/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f43572e676966) |
+|            |      |
+| [MineSweeper-TS](https://github.com/surajsharma/TS-Minesweeper) - Minesweeper in React-Typescript & SASS. | ![Minesweeper](https://camo.githubusercontent.com/f68531f87d7d62e9d98966ca4a59c9cc61fa7ebe/68747470733a2f2f692e696d6775722e636f6d2f376a4a4b6962622e676966)
 |            |      |
 | [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/) - A dashboard to view (**using Highcharts**) the performance of ~30,000 Mutual Funds in India. NAV data from AMFII Website, Time series chart data from Quandl. | ![AMFII Dashboard](https://puu.sh/F2sPb/dab9c7c90f.png) |
 |            |      |
@@ -38,8 +40,6 @@ published: false
 | [Match-The-Following](https://codepen.io/surajs1/pen/mYXeWJ) - A match-the-following game written in [p5js](https://p5js.org). Later at [Socratease](socratease.in), this evolved into a purely React-based project using Atlassian's [React-Beautiful-DnD](https://github.com/atlassian/react-beautiful-dnd) | ![Match The Following](https://puu.sh/EeRgk/34b003699b.png) ![Match The Following](https://puu.sh/EeRYp/c6f419d5a4.png)|
 |             |      |
 | [Learning Progress](https://learncsprogress.herokuapp.com) - A github-like progress tracker for learning and habit-building, using google sheets as a backend. | ![Learning](https://puu.sh/EeRmN/2f9e6490c6.png) |
-|             |      |
-| [React-Calc](https://codepen.io/surajs1/pen/eQLNYb) - A dual-themed calculator written in react. | ![Calculator](https://puu.sh/EeRe6/7d79a37ad5.png) |
 |             |      |
 | [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EnsYz/1dd698a67b.png) |
 |             |      |
