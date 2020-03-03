@@ -25,7 +25,7 @@ published: false
 | ----------------------------|:---------------:|
 | [Crossword](https://github.com/surajsharma/Crossword) - A Simple Crossword puzzle in React. SVG interals. Inspired by [this](https://github.com/zetter/react-crossword), and has all the same features. Here's a [video demo](https://youtu.be/TQP-IyItfXo).| ![Crossword](https://camo.githubusercontent.com/a618b0db91d5d62dc851147c90506365561fd446/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f43572e676966) |
 |            |      |
-| [MineSweeper-TS](https://github.com/surajsharma/TS-Minesweeper) - Minesweeper in React-Typescript & SASS. | ![Minesweeper]
+| [MineSweeper-TS](https://github.com/surajsharma/TS-Minesweeper) - Minesweeper in React-Typescript & SASS. | ![Minesweeper](https://camo.githubusercontent.com/f68531f87d7d62e9d98966ca4a59c9cc61fa7ebe/68747470733a2f2f692e696d6775722e636f6d2f376a4a4b6962622e676966)
 |            |      |
 | [AMFII Dashboard](https://surajsharma.github.io/Amfi-Dashboard/) - A dashboard to view (**using Highcharts**) the performance of ~30,000 Mutual Funds in India. NAV data from AMFII Website, Time series chart data from Quandl. | ![AMFII Dashboard](https://puu.sh/F2sPb/dab9c7c90f.png) |
 |            |      |
