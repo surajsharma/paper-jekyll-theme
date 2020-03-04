@@ -5,11 +5,6 @@ permalink: /experiments/
 published: true
 tags: 'personal, career, hobbies'
 ---
-### 🛠Experiments
-
-----
-
-
 |                             |                 |
 | ----------------------------|:---------------:|
 | [Crossword](https://github.com/surajsharma/Crossword) - A Simple Crossword puzzle in React. SVG interals. Inspired by [this](https://github.com/zetter/react-crossword), and has all the same features. Here's a [video demo](https://youtu.be/TQP-IyItfXo).| ![Crossword](https://camo.githubusercontent.com/a618b0db91d5d62dc851147c90506365561fd446/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f43572e676966) |
