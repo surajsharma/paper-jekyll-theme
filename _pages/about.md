@@ -5,9 +5,9 @@ permalink: /about/
 published: true
 tags: 'personal, career, hobbies'
 ---
-Thank you for dropping by!
+Hello, thank you for dropping by!
 
-I'm a software developer based in India. 
+I'm Suraj, a software developer based in India. 
 
 In my earlier lives, I was (in no particular order), a business reporter, a [poet](surajsharma.blogspot.in), a [ghostwriter](https://amzn.to/2Bsgj1D), a content strategist, a government clerk, a [music](http://thesilentballet.com/reviews/Tape_-_Revelationes.html) [reviewer](http://thesilentballet.com/reviews/Stephan_Mathieu_-_A_Static_Place.html) etc. Check out my profile on [LinkedIn](https://in.linkedin.com/in/surajsharma21) for more professional details. 
 
