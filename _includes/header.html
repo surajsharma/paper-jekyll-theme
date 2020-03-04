@@ -5,13 +5,18 @@
         <h1>{{ site.description }}</h1>
     {% endif %}
     <p>
-      <a href="{{ "/" | prepend: site.baseurl }}">Home</a><span class="u-separate"></span> 
-      <a href="{{ "/projects/" | prepend:site.baseurl }}">Projects</a>
-      <a href="{{ "/experiments/" | prepend:site.baseurl }}">Experiments</a>
-      <a href="{{ "/projects/" | prepend:site.baseurl }}">Books</a>
+      <a href="{{ "/" | prepend: site.baseurl }}">Home</a>
       <span class="u-separate"></span> 
-      <a href="{{ "/about/" | prepend: site.baseurl }}">About</a><span class="u-separate"></span>
-      <a href="{{ "/contact/" | prepend: site.baseurl }}">Contact</a><span class="u-separate"></span>
+      <a href="{{ "/projects/" | prepend:site.baseurl }}">Projects</a>
+      <span class="u-separate"></span> 
+      <a href="{{ "/experiments/" | prepend:site.baseurl }}">Experiments</a>
+      <span class="u-separate"></span> 
+      <a href="{{ "/projects/" | prepend:site.baseurl }}">Books</a>
+	  <span class="u-separate"></span> 
+      <a href="{{ "/about/" | prepend: site.baseurl }}">About</a>
+      <span class="u-separate"></span>
+      <a href="{{ "/contact/" | prepend: site.baseurl }}">Contact</a>
+      <span class="u-separate"></span>
       <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
     </p>
 </header>
