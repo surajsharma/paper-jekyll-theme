@@ -16,13 +16,3 @@ You can also view my latest CV [here](http://bit.ly/31oAvMw), and for more sampl
 As a card-carrying generalist, I believe in a world where letter openers and Swiss Army knives co-exist.
 
 ---
-
-### Technologies I use and enjoy
-
-
-|  |  |  |  |
-| :-: | :-: | :-: | :-: |
-| <i class="devicon-html5-plain-wordmark colored"></i> |  <i class="devicon-python-plain-wordmark colored"></i> | <i class="devicon-bootstrap-plain colored"></i> | <i class="devicon-express-original"></i> |
-| <i class="devicon-javascript-plain colored"></i> | <i class="devicon-mongodb-plain-wordmark colored"></i> |  <i class="devicon-react-original colored"></i> | <i class="devicon-webpack-plain-wordmark colored"></i>
-|  |  |  |  |
-| <i class="devicon-mysql-plain-wordmark colored"></i> | <i class="devicon-nodejs-plain-wordmark colored"></i> |  <i class="devicon-sass-original colored"></i> |
