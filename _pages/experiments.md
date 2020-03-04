@@ -2,7 +2,7 @@
 layout: content
 title: Experiments
 permalink: /experiments/
-published: true
+published: false
 tags: 'personal, career, hobbies'
 ---
 |                             |                 |
