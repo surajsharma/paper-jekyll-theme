@@ -4,11 +4,7 @@ title: Experimens
 permalink: /experiments/
 published: true
 tags: 'personal, career, hobbies'
-
 ---
-
-
-
 ### 🛠Experiments
 
 ----
