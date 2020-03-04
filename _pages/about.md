@@ -20,7 +20,7 @@ As a card-carrying generalist, I believe in a world where letter openers and Swi
 ### Technologies I use and enjoy
 
 
-| Languages | Databases | Libraries and Frameworks | Tools |
+| Languages | Databases | Libraries/Frameworks | Tools |
 | :-: | :-: | :-: | :-: |
 | <i class="devicon-javascript-plain colored"></i> | <i class="devicon-mongodb-plain-wordmark colored"></i> |  <i class="devicon-react-original colored"></i> | <i class="devicon-webpack-plain-wordmark colored"></i>
 |  |  |  |  |
