@@ -22,6 +22,7 @@ As a card-carrying generalist, I believe in a world where letter openers and Swi
 
 | Languages | Databases | Libraries/Frameworks | Tools |
 | :-: | :-: | :-: | :-: |
+| <i class="devicon-html5-plain-wordmark colored"></i> | | | |
 | <i class="devicon-javascript-plain colored"></i> | <i class="devicon-mongodb-plain-wordmark colored"></i> |  <i class="devicon-react-original colored"></i> | <i class="devicon-webpack-plain-wordmark colored"></i>
 |  |  |  |  |
  <i class="devicon-express-original"></i>| | | |
@@ -30,5 +31,4 @@ As a card-carrying generalist, I believe in a world where letter openers and Swi
 |  |  |  |  |
  <i class="devicon-nodejs-plain-wordmark colored"></i>| | | |
 |  |  |  |  |
- <i class="devicon-sass-original colored"></i>| | | |
- 
+ <i class="devicon-sass-original colored"></i>| | | | 
