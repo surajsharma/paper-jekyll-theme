@@ -14,7 +14,3 @@ In my earlier lives, I was (in no particular order), a business reporter, a [poe
 You can also view my latest CV [here](http://bit.ly/31oAvMw), and for more samples of my business-related writing, you can view my [muckrack profile](http://www.muckrack.com/surajsharma).
 
 As a card-carrying generalist, I believe in a world where letter openers and Swiss Army knives co-exist.
-
-I'd love to hear your feedback on this site and my work, drop in a line at [suraj@evenzero.in](mailto:suraj@evenzero.in)
-
-![](http://i.imgur.com/LjcPv.png) ![](http://i.imgur.com/cNKvt.png)
