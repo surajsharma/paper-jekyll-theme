@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Experimens
+title: Experiments
 permalink: /experiments/
 published: true
 tags: 'personal, career, hobbies'
