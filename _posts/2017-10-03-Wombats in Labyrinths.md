@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 An [illuminating discussion](https://www.bloomberg.com/news/audio/2017-09-29/what-a-sell-side-analyst-does-and-how-the-job-has-changed) about sell-side analysts between Joe and Tracy led to these jottings:
 
