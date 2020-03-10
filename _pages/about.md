@@ -2,7 +2,7 @@
 layout: content
 title: About
 permalink: /about/
-published: true
+published: false
 tags: 'personal, career, hobbies'
 ---
 I'm just an intellectual interloper, a midnight marauder, an agent provocateur par excellence. Welcome to my page, thank you for dropping by!
