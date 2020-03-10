@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 tags: 'personal, career, hobbies'
 ---
-Hello, thank you for dropping by!
+I'm just an intellectual interloper, a midnight marauder, an agent provocateur par excellence. Welcome to my page, thank you for dropping by!
 
 I'm Suraj, a software developer based in India. 
 
@@ -15,4 +15,9 @@ You can also view my latest CV [here](http://bit.ly/31oAvMw), and for more sampl
 
 As a card-carrying generalist, I believe in a world where letter openers and Swiss Army knives co-exist.
 
+
+
 ---
+
+
+Founder @inversepolarity 
