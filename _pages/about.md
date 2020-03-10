@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Aboutold
+title: About
 permalink: /about/
 published: false
 tags: 'personal, career, hobbies'
