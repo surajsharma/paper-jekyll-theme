@@ -7,7 +7,7 @@ tags: 'personal, career, hobbies'
 ---
 I'm just an intellectual interloper, a midnight marauder, an agent provocateur par excellence. Welcome to my page, thank you for dropping by!
 
-I'm Suraj, a software developer based in India with a bunch of crazy ideas about where software can take us. Currently freelancing as a dev for startups across the country/world, building [Sustain](https://github.com/inversepolarity/Sustain), a git-like solution in my free time.
+I'm Suraj, a web developer based in India with a bunch of crazy ideas about where software can take us. Currently freelancing as a dev for startups across the country/world, building [Sustain](https://github.com/inversepolarity/Sustain), a git-like solution in my free time.
 
 As a card-carrying generalist, I believe in a world where letter openers and Swiss Army knives co-exist. 
 
