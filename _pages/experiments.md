@@ -28,11 +28,6 @@ tags: 'personal, career, hobbies'
 | [Learning Progress](https://learncsprogress.herokuapp.com) - A github-like progress tracker for learning and habit-building, using google sheets as a backend. | ![Learning](https://puu.sh/EeRmN/2f9e6490c6.png) |
 |             |      |
 | [Calendar](https://github.com/surajsharma/Calendar) - A simple calendar written from scratch in React | ![Calendar](https://puu.sh/EnsYz/1dd698a67b.png) |
-|             |      |
-| [REDUX CRUD Demo](https://github.com/surajsharma/reduxcrud) - A minimal Redux app with CRUD functionality, built while learning Redux| ![ReduxCRUD](https://puu.sh/EeRrE/50b7abe21a.png) |
-|             |      |
-| [MERN CMS]() - A bare-bones MERN CMS/CRUD app built as an interview test for [ZOLO](https://zolostays.com) | ![CMS](https://puu.sh/EeRuD/ce6ccad28d.png) |
-
 
 
 ### 💾 Defunct/Deprecated
