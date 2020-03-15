@@ -158,7 +158,7 @@ if (!process.argv.slice(2).length) {
 ```
 
 Now do `npm run build` and call the program, you should see something like this:
-![firstscreen](https://puu.sh/FkGSZ/601c27535a.png)
+![firstscreen](https://puu.sh/FkHhY/2e27e7bbe4.png)
 
 
 In the next part we will add the `SusRepository` Class to the program, which is our basic building block. We will also add some utility functions to the code. Then we will implement the `init` command and write a `RepoFind` function which will recursively look for a git directory for our `init` functionality.
