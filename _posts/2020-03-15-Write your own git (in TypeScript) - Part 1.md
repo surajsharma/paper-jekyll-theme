@@ -57,17 +57,29 @@ The Scripts section of your `package.json` should look like this:
 You will also need a `tsconfig.json` file in the same folder as your `package.json` with the following contents:
 
 `{
-  "compilerOptions": {
-    "target": "es5",
-    "module": "commonjs",
-    "lib": ["es6", "es2015", "dom"],
-    "declaration": true,
-    "outDir": "lib",
-    "rootDir": "src",
-    "strict": true,
-    "types": ["node"],
-    "esModuleInterop": true,
-    "resolveJsonModule": true
-  }
-}`
 
+"compilerOptions": {
+
+"target": "es5",
+
+"module": "commonjs",
+
+"lib": ["es6", "es2015", "dom"],
+
+"declaration": true,
+
+"outDir": "lib",
+
+"rootDir": "src",
+
+"strict": true,
+
+"types": ["node"],
+
+"esModuleInterop": true,
+
+"resolveJsonModule": true
+
+}
+
+}`
