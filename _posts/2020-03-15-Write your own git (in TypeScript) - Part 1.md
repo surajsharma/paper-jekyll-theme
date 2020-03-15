@@ -75,3 +75,61 @@ You will also need a `tsconfig.json` file in the same folder as your `package.js
 Create a `src` folder in the directory and a file named `index.ts` within it. Then, start editing:
 
 
+We start with a normal shebang
+
+```
+#!/usr/bin/env node
+
+```
+
+Clear the screen:
+
+```
+clear()
+```
+
+Import the dependencies:
+
+```
+const chalk = require('chalk');
+const clear = require('clear');
+const figlet = require('figlet');
+const path = require('path');
+const program = require('commander');
+```
+
+Display a banner:
+
+```
+console.log(
+  chalk.green(
+    figlet.textSync('sustain', { font: 'slant', horizontalLayout: 'full' })
+  ));
+
+```
+
+Add the commands/arguments to the CLI app that we will process:
+
+```
+
+program
+  .version('0.0.1')
+  .description('A distributed version control system')
+  .option('-i, --init', 'Init a repo')
+  .option('-a, --add', 'Add file')
+  .option('-c, --cat', 'Cat file')
+  .option('-t, --checkout', 'Checkout')
+  .option('-m, -commit', 'Commit')
+  .option('-h, -hash', 'Hash Object')
+  .option('-l, -log', 'Log')
+  .option('-t, -ls-tree', 'Hash Object')
+  .option('-h, -hash', 'Hash Object')
+  .option('-g, -merge', 'Merge')
+  .option('-r, -rebase', 'Rebase')
+  .option('-v, -rev', 'Rev parse')
+  .option('-r, -rm', 'Remove')
+  .option('-s, -show', 'Show ref')
+  .option('-t, -tag', 'Tag')
+  .parse(process.argv);
+```
+
