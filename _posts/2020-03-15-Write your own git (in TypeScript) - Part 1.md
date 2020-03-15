@@ -7,7 +7,7 @@ This quote about git had me inspired:
 
 It comes from a [tutorial](https://wyag.thb.lt/) on writing your own git in Python, and I decided to port it to TypeScript.
 
-In this and coming posts, we will go through the tutorial and complete it in 8 steps. The code, which is strongly typed to the greatest possible extent can be found [here](https://github.com/inversepolarity/Sustain). The tutorial leaves the task of upgrading the resulting app "_to a full-featured git library and CLI_" to the reader, so we will try to take it a step further, if not all the way.
+In this and coming posts, we will go through the tutorial and complete it in 8 steps. The code, which is strongly typed to the greatest possible extent, can be found [here](https://github.com/inversepolarity/Sustain). The tutorial leaves the task of upgrading the resulting app "_to a full-featured git library and CLI_" to the reader, so we will try to take it a step further, if not all the way.
 
 Shall we dance?
 
@@ -113,21 +113,19 @@ program
   .version('0.0.1')
   .description('A distributed version control system')
   .option('-i, --init', 'Init a repo')
-  .option('-a, --add', 'Add file')
+  .option('-d, --add', 'Add file')
   .option('-c, --cat', 'Cat file')
-  .option('-t, --checkout', 'Checkout')
-  .option('-m, -commit', 'Commit')
-  .option('-h, -hash', 'Hash Object')
-  .option('-l, -log', 'Log')
-  .option('-t, -ls-tree', 'Hash Object')
-  .option('-h, -hash', 'Hash Object')
-  .option('-g, -merge', 'Merge')
-  .option('-r, -rebase', 'Rebase')
-  .option('-v, -rev', 'Rev parse')
-  .option('-r, -rm', 'Remove')
-  .option('-s, -show', 'Show ref')
-  .option('-t, -tag', 'Tag')
-  .parse(process.argv);
+  .option('-o, --checkout', 'Checkout')
+  .option('-m, --commit', 'Commit')
+  .option('-a, --hash', 'Hash Object')
+  .option('-l, --log', 'Log')
+  .option('-s, --lstree', 'Show contents of dir tree')
+  .option('-g, --merge', 'Merge')
+  .option('-b, --rebase', 'Rebase')
+  .option('-p, --rparse', 'Rev parse')
+  .option('-r, --rm', 'Remove')
+  .option('-w, --show', 'Show ref')
+  .option('-t, --tag', 'Tag')
 ```
 
 Next, we want to have some placeholder actions for the arguments sent by the user, we will come back here and write functions for each one of these:
