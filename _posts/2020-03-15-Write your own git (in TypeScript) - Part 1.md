@@ -69,3 +69,9 @@ You will also need a `tsconfig.json` file in the same folder as your `package.js
   }
 }
 ```
+
+#### Creating the CLI
+
+Create a `src` folder in the directory and a file named `index.ts` within it. Then, start editing:
+
+
