@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This quote about git had me inspired:
 
