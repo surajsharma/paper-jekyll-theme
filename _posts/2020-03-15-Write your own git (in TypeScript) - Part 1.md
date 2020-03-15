@@ -24,11 +24,11 @@ I followed [this tutorial](https://itnext.io/how-to-create-your-own-typescript-c
 
 Do an `npm init` in your folder and then add the following dependencies to your `package.json`:
 
-1. clear - clearing the screen, 
-2. figlet - ASCII art for Schwaaag, 
-3. chalk - terminal styling 
-4. commander - ?
-5. path - for working with file and directory paths
+1. [clear](https://www.npmjs.com/package/clear) - clearing the screen, 
+2. [figlet](https://www.npmjs.com/package/figlet) - ASCII art for Schwaaag, 
+3. [chalk](https://www.npmjs.com/package/chalk) - terminal styling 
+4. [commander](https://www.npmjs.com/package/commander) - ?
+5. [path](https://www.npmjs.com/package/path) - for working with file and directory paths
 
 and the following devDependencies:
 
