@@ -18,7 +18,7 @@ Intermediate JS/TS developers familiar with NodeJS and with at least some basic 
 
 ### 1 - Getting Started
 
-The idea is to make a NodeJS app in TypeScript that mimics wyag. For this, we will need a CLI interface in TypeScript.
+The idea is to make a Node.js app in TypeScript that mimics wyag. For this, we will need a CLI interface in TypeScript.
 
 I followed [this tutorial](https://itnext.io/how-to-create-your-own-typescript-cli-with-node-js-1faf7095ef89) on creating a CLI with Node and am summarising the process below:
 
@@ -31,4 +31,8 @@ Do an `npm init` in your folder and then add the following dependencies to your 
 5. [path](https://www.npmjs.com/package/path) - for working with file and directory paths
 
 and the following devDependencies:
-1. 
+1. types/node - Type definitionsf or Node.js
+2. nodemon - If you don't know what this is, now is the time to stop reading this tutorial and go do something else
+3. ts-node - execution environment and REPL (if you have to google REPL, seriously, please go do something else)
+4. typescript - ❤️
+
