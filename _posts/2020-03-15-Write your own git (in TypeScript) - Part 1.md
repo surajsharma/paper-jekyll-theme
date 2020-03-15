@@ -1,5 +1,6 @@
 ---
 published: true
+tags: Typescript Git Tutorial Node
 ---
 This quote about git had me inspired:
 
