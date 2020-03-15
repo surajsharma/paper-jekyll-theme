@@ -79,7 +79,6 @@ We start with a normal shebang
 
 ```
 #!/usr/bin/env node
-
 ```
 
 Clear the screen:
@@ -111,7 +110,6 @@ console.log(
 Add the commands/arguments to the CLI app that we will process:
 
 ```
-
 program
   .version('0.0.1')
   .description('A distributed version control system')
@@ -133,3 +131,33 @@ program
   .parse(process.argv);
 ```
 
+Next, we want to have some placeholdera actions for the arguments sent by the user, we will come back here and write functions for each one of these:
+
+```
+program
+  .version('0.0.1')
+  .description('A distributed version control system')
+  .option('-i, --init', 'Init a repo')
+  .option('-d, --add', 'Add file')
+  .option('-c, --cat', 'Cat file')
+  .option('-o, --checkout', 'Checkout')
+  .option('-m, --commit', 'Commit')
+  .option('-a, --hash', 'Hash Object')
+  .option('-l, --log', 'Log')
+  .option('-s, --lstree', 'Show contents of dir tree')
+  .option('-g, --merge', 'Merge')
+  .option('-b, --rebase', 'Rebase')
+  .option('-p, --rparse', 'Rev parse')
+  .option('-r, --rm', 'Remove')
+  .option('-w, --show', 'Show ref')
+  .option('-t, --tag', 'Tag')
+  .parse(process.argv);
+```
+
+Finally, add the following to implement the obligatory `-h` argument
+
+```
+if (!process.argv.slice(2).length) {
+  program.outputHelp();
+}
+```
