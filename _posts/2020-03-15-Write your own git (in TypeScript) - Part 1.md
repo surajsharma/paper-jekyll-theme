@@ -13,7 +13,7 @@ The tutorial leaves the task of upgrading the resulting app "_to a full-featured
 
 Shall we dance?
 
-### 0 - Target Audience
+### 0 - Intended Audience
 Intermediate JS/TS developers familiar with NodeJS and with at least some basic understanding of File Systems.
 
 ### 1 - Getting Started
@@ -27,8 +27,8 @@ Do an `npm init` in your folder and then add the following dependencies to your 
 1. [clear](https://www.npmjs.com/package/clear) - clearing the screen, 
 2. [figlet](https://www.npmjs.com/package/figlet) - ASCII art for Schwaaag, 
 3. [chalk](https://www.npmjs.com/package/chalk) - terminal styling 
-4. [commander](https://www.npmjs.com/package/commander) - ?
+4. [commander](https://www.npmjs.com/package/commander) - for args
 5. [path](https://www.npmjs.com/package/path) - for working with file and directory paths
 
 and the following devDependencies:
-
+1. 
