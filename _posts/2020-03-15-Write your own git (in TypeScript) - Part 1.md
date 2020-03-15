@@ -125,7 +125,8 @@ program
   .option('-p, --rparse', 'Rev parse')
   .option('-r, --rm', 'Remove')
   .option('-w, --show', 'Show ref')
-  .option('-t, --tag', 'Tag')
+  .option('-t, --tag', 'Tag')  
+  .parse(process.argv)
 ```
 
 Next, we want to have some placeholder actions for the arguments sent by the user, we will come back here and write functions for each one of these:
