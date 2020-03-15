@@ -22,6 +22,8 @@ The idea is to make a Node.js app in TypeScript that mimics wyag. For this, we w
 
 I followed [this tutorial](https://itnext.io/how-to-create-your-own-typescript-cli-with-node-js-1faf7095ef89) on creating a CLI with Node and am summarising the process below:
 
+#### Init
+
 Do an `npm init` in your folder and then add the following dependencies to your `package.json`:
 
 1. [clear](https://www.npmjs.com/package/clear) - clearing the screen, 
@@ -36,3 +38,36 @@ and the following devDependencies:
 2. [nodemon](https://www.npmjs.com/package/nodemon) - If you don't know what this is, now is the time to stop reading this tutorial and go do something else
 3. [ts-node](https://www.npmjs.com/package/ts-node) - execution environment and REPL (if you have to google REPL, seriously, please go do something else)
 4. [typescript]() - ❤️
+
+#### Scripts
+
+The Scripts section of your `package.json` should look like this:
+
+`"scripts": {
+  "start": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
+  "create": "npm run build && npm run test",
+  "build": "tsc -p .",
+  "test": "sudo npm i -g && pizza",
+  "refresh": "rm -rf ./node_modules ./package-lock.json && npm install"
+},`
+
+
+#### TSconfig
+
+You will also need a `tsconfig.json` file in the same folder as your `package.json` with the following contents:
+
+`{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["es6", "es2015", "dom"],
+    "declaration": true,
+    "outDir": "lib",
+    "rootDir": "src",
+    "strict": true,
+    "types": ["node"],
+    "esModuleInterop": true,
+    "resolveJsonModule": true
+  }
+}`
+
