@@ -14,7 +14,7 @@ The tutorial leaves the task of upgrading the resulting app "_to a full-featured
 Shall we dance?
 
 ### 0 - Intended Audience
-Intermediate JS/TS developers familiar with NodeJS and with at least some basic understanding of File Systems.
+Intermediate JS/TS developers familiar with NodeJS and with at least some basic understanding of File Systems. TypeScript enthusiasts learning the language.
 
 ### 1 - Getting Started
 
@@ -31,8 +31,8 @@ Do an `npm init` in your folder and then add the following dependencies to your 
 5. [path](https://www.npmjs.com/package/path) - for working with file and directory paths
 
 and the following devDependencies:
-1. types/node - Type definitionsf or Node.js
-2. nodemon - If you don't know what this is, now is the time to stop reading this tutorial and go do something else
-3. ts-node - execution environment and REPL (if you have to google REPL, seriously, please go do something else)
-4. typescript - ❤️
 
+1. [types/node]() - Type definitionsf or Node.js
+2. [nodemon]() - If you don't know what this is, now is the time to stop reading this tutorial and go do something else
+3. [ts-node]() - execution environment and REPL (if you have to google REPL, seriously, please go do something else)
+4. [typescript]() - ❤️
