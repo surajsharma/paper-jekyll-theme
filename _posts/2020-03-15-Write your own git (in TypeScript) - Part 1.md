@@ -163,7 +163,7 @@ if (!process.argv.slice(2).length) {
 ```
 
 Now do `npm run build` and call the program, you should see something like this:
-~[firstscreen](https://puu.sh/FkGSZ/601c27535a.png)
+![firstscreen](https://puu.sh/FkGSZ/601c27535a.png)
 
 
 In the next part we will add the `SusRepository` Class to the program, which is our basic building block. We will also add some utility functions to the code.
