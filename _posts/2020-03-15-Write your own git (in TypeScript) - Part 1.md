@@ -161,3 +161,6 @@ if (!process.argv.slice(2).length) {
   program.outputHelp();
 }
 ```
+
+Now do `npm run build` and call the program, you should see something like this:
+~[firstscreen](https://puu.sh/FkGSZ/601c27535a.png)
