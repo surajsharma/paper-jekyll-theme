@@ -130,7 +130,7 @@ program
   .parse(process.argv);
 ```
 
-Next, we want to have some placeholdera actions for the arguments sent by the user, we will come back here and write functions for each one of these:
+Next, we want to have some placeholder actions for the arguments sent by the user, we will come back here and write functions for each one of these:
 
 ```
 if (program.init) console.log(' - Initialize a repo');
@@ -161,4 +161,4 @@ Now do `npm run build` and call the program, you should see something like this:
 ![firstscreen](https://puu.sh/FkGSZ/601c27535a.png)
 
 
-In the next part we will add the `SusRepository` Class to the program, which is our basic building block. We will also add some utility functions to the code.
+In the next part we will add the `SusRepository` Class to the program, which is our basic building block. We will also add some utility functions to the code. Then we will implement the `init` command and write a `RepoFind` function which will recursively look for a git directory for our `init` functionality.
