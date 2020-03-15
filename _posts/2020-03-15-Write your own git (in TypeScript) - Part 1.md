@@ -32,7 +32,7 @@ Do an `npm init` in your folder and then add the following dependencies to your 
 
 and the following devDependencies:
 
-1. [types/node]() - Type definitionsf or Node.js
-2. [nodemon]() - If you don't know what this is, now is the time to stop reading this tutorial and go do something else
-3. [ts-node]() - execution environment and REPL (if you have to google REPL, seriously, please go do something else)
+1. [@types/node](https://www.npmjs.com/package/@types/node) - Type definitions for Node.js
+2. [nodemon](https://www.npmjs.com/package/nodemon) - If you don't know what this is, now is the time to stop reading this tutorial and go do something else
+3. [ts-node](https://www.npmjs.com/package/ts-node) - execution environment and REPL (if you have to google REPL, seriously, please go do something else)
 4. [typescript]() - ❤️
