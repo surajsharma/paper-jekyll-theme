@@ -21,19 +21,3 @@ Intermediate JS/TS developers familiar with NodeJS and with at least some basic 
 The idea is to make a NodeJS app in TypeScript that mimics wyag. For this, we will need a CLI interface in TypeScript.
 
 I followed [this tutorial](https://itnext.io/how-to-create-your-own-typescript-cli-with-node-js-1faf7095ef89) on creating a CLI with Node and am summarising the process below:
-
-Do an `npm init` in your folder and then add the following dependencies to your `package.json`:
-
-clear - clearing the screen, 
-figlet - ASCII art for Schwaaag, 
-chalk - terminal styling
-commander - ?
-
-path - for working with file and directory paths
-
-
-
-and also the following devDependencies:
-
-
-
