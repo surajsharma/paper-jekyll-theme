@@ -42,9 +42,9 @@ and the following devDependencies:
 #### Scripts
 
 The Scripts section of your `package.json` should look like this:
-![scripts](https://puu.sh/FkGhg/54902397ef.png)
+[![scripts](https://puu.sh/FkGhg/54902397ef.png)](https://puu.sh/FkGhg/54902397ef.png)
 
 #### TSconfig
 
 You will also need a `tsconfig.json` file in the same folder as your `package.json` with the following contents:
-![tsconfig](https://puu.sh/FkGhZ/d819d074dd.png)
+[![tsconfig](https://puu.sh/FkGhZ/d819d074dd.png)](https://puu.sh/FkGhZ/d819d074dd.png)
