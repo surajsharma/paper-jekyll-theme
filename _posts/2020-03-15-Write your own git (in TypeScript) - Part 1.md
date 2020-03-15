@@ -42,44 +42,9 @@ and the following devDependencies:
 #### Scripts
 
 The Scripts section of your `package.json` should look like this:
-
-`"scripts": {
-  "start": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
-  "create": "npm run build && npm run test",
-  "build": "tsc -p .",
-  "test": "sudo npm i -g && pizza",
-  "refresh": "rm -rf ./node_modules ./package-lock.json && npm install"
-},`
-
+![scripts](https://puu.sh/FkGhg/54902397ef.png)
 
 #### TSconfig
 
 You will also need a `tsconfig.json` file in the same folder as your `package.json` with the following contents:
-
-`{
-
-"compilerOptions": {
-
-"target": "es5",
-
-"module": "commonjs",
-
-"lib": ["es6", "es2015", "dom"],
-
-"declaration": true,
-
-"outDir": "lib",
-
-"rootDir": "src",
-
-"strict": true,
-
-"types": ["node"],
-
-"esModuleInterop": true,
-
-"resolveJsonModule": true
-
-}
-
-}`
+![tsconfig](https://puu.sh/FkGhZ/d819d074dd.png)
