@@ -104,7 +104,6 @@ console.log(
   chalk.green(
     figlet.textSync('sustain', { font: 'slant', horizontalLayout: 'full' })
   ));
-
 ```
 
 Add the commands/arguments to the CLI app that we will process:
@@ -134,27 +133,23 @@ program
 Next, we want to have some placeholdera actions for the arguments sent by the user, we will come back here and write functions for each one of these:
 
 ```
-program
-  .version('0.0.1')
-  .description('A distributed version control system')
-  .option('-i, --init', 'Init a repo')
-  .option('-d, --add', 'Add file')
-  .option('-c, --cat', 'Cat file')
-  .option('-o, --checkout', 'Checkout')
-  .option('-m, --commit', 'Commit')
-  .option('-a, --hash', 'Hash Object')
-  .option('-l, --log', 'Log')
-  .option('-s, --lstree', 'Show contents of dir tree')
-  .option('-g, --merge', 'Merge')
-  .option('-b, --rebase', 'Rebase')
-  .option('-p, --rparse', 'Rev parse')
-  .option('-r, --rm', 'Remove')
-  .option('-w, --show', 'Show ref')
-  .option('-t, --tag', 'Tag')
-  .parse(process.argv);
+if (program.init) console.log(' - Initialize a repo');
+if (program.add) console.log('  - Add file');
+if (program.cat) console.log('  - Cat file');
+if (program.checkout) console.log('  - Checkout');
+if (program.commit) console.log('  - Commit');
+if (program.hash) console.log('  - Hash object');
+if (program.log) console.log('  - Log');
+if (program.lstree) console.log(' - Show dir tree');
+if (program.merge) console.log('  - Merge');
+if (program.rebase) console.log('  - Rebase');
+if (program.rparse) console.log('  - Rev parse');
+if (program.rm) console.log(' - Remove');
+if (program.show) console.log('  - Show ref');
+if (program.tag) console.log('  - Tag');
 ```
 
-Finally, add the following to implement the obligatory `-h` argument
+Finally, add the following to implement the obligatory `-h` and `--help` argument for when the user needs help.
 
 ```
 if (!process.argv.slice(2).length) {
