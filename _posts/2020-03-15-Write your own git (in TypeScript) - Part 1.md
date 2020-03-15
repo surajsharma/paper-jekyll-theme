@@ -7,9 +7,7 @@ This quote about git had me inspired:
 
 It comes from a [tutorial](https://wyag.thb.lt/) on writing your own git in Python, and I decided to port it to TypeScript.
 
-In this and coming posts, we will go through the tutorial and complete in 8 steps. The code, which is strongly typed to the greatest possible extent can be found [here](https://github.com/inversepolarity/Sustain).
-
-The tutorial leaves the task of upgrading the resulting app "_to a full-featured git library and CLI_" to the reader, so we will try to take it a step further, if not all the way.
+In this and coming posts, we will go through the tutorial and complete it in 8 steps. The code, which is strongly typed to the greatest possible extent can be found [here](https://github.com/inversepolarity/Sustain). The tutorial leaves the task of upgrading the resulting app "_to a full-featured git library and CLI_" to the reader, so we will try to take it a step further, if not all the way.
 
 Shall we dance?
 
