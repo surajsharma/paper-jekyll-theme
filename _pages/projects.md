@@ -2,12 +2,12 @@
 layout: content
 title: Projects
 permalink: /projects/
-published: true
+published: false
 tags: 'personal, career, hobbies'
 ---
 |                             |                 |
 | ----------------------------|:---------------:|
-| [Autoproctor](https://www.autoproctor.co/) - AutoProctor uses Artificial Intelligence to prevent and gather evidence of malpractice during an online test. Highly configurable, you decide if and what sources (like audio, video, etc) AutoProctor tracks and stores  **Stack**: HTML, CSS, JS | ![AutoProctor](https://puu.sh/FKonL/52e2fb185a.png)|
+| [Autoproctor](https://www.autoproctor.co/) - AutoProctor uses Artificial Intelligence to prevent and gather evidence of malpractice during an online test. Highly configurable, you decide if and what sources (like audio, video, etc) AutoProctor tracks and stores  **Stack**: HTML, CSS, JS | ![AutoProctor](https://puu.sh/FKoMU/04ae6e4b33.png)|
 |            |      |
 | [Socratease](https://www.socratease.in) - An Edtech-as-a-Service product. A White-labelled solution that provides Content Hosting and Delivery, E-learning Web and Mobile Apps, Student and Classroom Management, and Analytics. You give us your content, we will give you a full-fledged Digital Learning Product.   **Stack**: Python, Flask, Jinja, React, JS, SQL | ![Socratease](https://puu.sh/EeVdy/7dc21d7e2a.png)|
 |            |      |
