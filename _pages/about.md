@@ -11,8 +11,7 @@ I'm Suraj, a web developer based in India with a bunch of crazy ideas about wher
 
 As a card-carrying generalist, I believe in a world where letter openers and Swiss Army knives co-exist. 
 
-Aliens, however, do not exist.
-
+I don't believe in extra-terrestrial intelligent life.
 
 I'd love to hear your feedback on this site and my work, drop in a line at [suraj@evenzero.in](mailto:suraj@evenzero.in)
 
