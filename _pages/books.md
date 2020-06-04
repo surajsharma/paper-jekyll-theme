@@ -2,7 +2,7 @@
 layout: content
 title: Books
 permalink: /books/
-published: true
+published: false
 tags: 'personal, career, hobbies'
 ---
 
@@ -10,4 +10,4 @@ tags: 'personal, career, hobbies'
 
 - [The Escapist's Propaganda](https://amzn.to/33NlMfR) -  An anthology of my poems.
 
-- I was a Correspondent (journalist) for a real-time financial news wire called [Cogencis](cogencis.com), some of what I wrote for the wire can be read on [Muckrack](muckrack.com/surajsharma)
+- I was a Correspondent (journalist) for a real-time financial news wire called [Cogencis](http://www.cogencis.com), some of what I wrote for the wire can be read on [Muckrack](http://www.muckrack.com/surajsharma)
