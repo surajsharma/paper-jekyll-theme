@@ -1,3 +1,10 @@
+---
+layout: content
+title: Books and Writings
+permalink: /books/
+published: true
+tags: 'personal, career, writing'
+---
 
 - [The key to study skills](https://amzn.to/2Bsgj1D) -  Simple Strategies to Double Your Reading, Memory, and Focus
 
