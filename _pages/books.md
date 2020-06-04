@@ -2,7 +2,7 @@
 layout: content
 title: Books
 permalink: /books/
-published: true
+published: false
 tags: 'personal, career, hobbies'
 ---
 
