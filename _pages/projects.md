@@ -2,11 +2,13 @@
 layout: content
 title: Projects
 permalink: /projects/
-published: true
+published: false
 tags: 'personal, career, hobbies'
 ---
 |                             |                 |
 | ----------------------------|:---------------:|
+| [Tattle](tattle.co.in) - Tattle is a civic tech project that aims to make accurate information more accessible to mobile first users, in languages that they are comfortable with. To this end, Tattle is creating an open archive of content circulated on chat apps; and building open source data collection tools and APIs to index and query the multimedia archive. You can read more about the project [here](https://tattle.co.in/) . Tattle was one of the winners of the [AI and the News Open Challenge](https://aiethicsinitiative.org/news/2019/3/12/announcing-the-winners-of-the-ai-and-the-news-open-challenge) which has enabled the project to scale faster. | ![Tattle](https://puu.sh/FSUHR/238dde6b40.png)
+|            |      |
 | [Autoproctor](https://www.autoproctor.co/) - AutoProctor uses Artificial Intelligence to prevent and gather evidence of malpractice during an online test. Highly configurable, you decide if and what sources (like audio, video, etc) AutoProctor tracks and stores  **Stack**: HTML, CSS, JS | ![AutoProctor](https://puu.sh/FKoMU/04ae6e4b33.png)|
 |            |      |
 | [Socratease](https://www.socratease.in) - An Edtech-as-a-Service product. A White-labelled solution that provides Content Hosting and Delivery, E-learning Web and Mobile Apps, Student and Classroom Management, and Analytics. You give us your content, we will give you a full-fledged Digital Learning Product.   **Stack**: Python, Flask, Jinja, React, JS, SQL | ![Socratease](https://puu.sh/EeVdy/7dc21d7e2a.png)|
