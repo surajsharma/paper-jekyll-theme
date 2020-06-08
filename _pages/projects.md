@@ -2,12 +2,12 @@
 layout: content
 title: Projects
 permalink: /projects/
-published: true
+published: false
 tags: 'personal, career, hobbies'
 ---
 |                             |                 |
 | ----------------------------|:---------------:|
-| [Tattle](http://tattle.co.in)- A FOSS project, and One of the winners of the [AI and the News Open Challenge](https://aiethicsinitiative.org/news/2019/3/12/announcing-the-winners-of-the-ai-and-the-news-open-challenge), Tattle is a civic tech project that aims to make accurate information more accessible to mobile first users, in languages that they are comfortable with. To this end, Tattle is creating an open archive of content circulated on chat apps; and building open source data collection tools and APIs to index and query the multimedia archive. You can read more about the project [here](https://tattle.co.in/). **Stack**: GatsbyJS, React/Redux, Node, Redis, Docker, SQL, GraphQL | ![Tattle](https://puu.sh/FSUHR/238dde6b40.png)
+| [Tattle](http://tattle.co.in) - A FOSS project, and One of the winners of the [AI and the News Open Challenge](https://aiethicsinitiative.org/news/2019/3/12/announcing-the-winners-of-the-ai-and-the-news-open-challenge), Tattle is a civic tech project that aims to make accurate information more accessible to mobile first users, in languages that they are comfortable with. To this end, Tattle is creating an open archive of content circulated on chat apps; and building open source data collection tools and APIs to index and query the multimedia archive. You can read more about the project [here](https://tattle.co.in/). **Stack**: GatsbyJS, React/Redux, Node, Redis, Docker, SQL, GraphQL | ![Tattle](https://puu.sh/FSUHR/238dde6b40.png)
 |            |      |
 | [Autoproctor](https://www.autoproctor.co/) - AutoProctor uses Artificial Intelligence to prevent and gather evidence of malpractice during an online test. Highly configurable, you decide if and what sources (like audio, video, etc) AutoProctor tracks and stores  **Stack**: HTML, CSS, JS | ![AutoProctor](https://puu.sh/FKoMU/04ae6e4b33.png)|
 |            |      |
