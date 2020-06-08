@@ -2,7 +2,7 @@
 layout: content
 title: About
 permalink: /about/
-published: false
+published: true
 tags: 'personal, career, hobbies'
 ---
 Welcome to my page, thank you for dropping by!
