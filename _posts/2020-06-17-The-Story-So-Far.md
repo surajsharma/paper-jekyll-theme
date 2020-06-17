@@ -9,7 +9,8 @@ But narratives are malleable, and highly receptive to shifts in perception, and 
 
 But we are all experts in rationality these days, a virtue that affords us little by way of options to redefine, spin, or shift the narratives that surround us
 
-> In the beginner's mind there are many possibilities, but in the expert's there are few. - Shunryu Suzuki
+> In the beginner's mind there are many possibilities, but in the expert's there are few. 
+> - Shunryu Suzuki
 
 So, because the readily available lens of an antagonistic and irksome tale of rebellion and tragedy is a perpetual temptation egging me to exploit it, I must choose to look the other way, for I would not be much of a contrarian if I didn't.
 
@@ -24,7 +25,8 @@ Looking from the other side, the narrative does not seem so antagonistic. Lookin
 Maybe it's a spin, probably to many of you it does not even make sense. But as Ghalib said, 
 
 > 'दिल को खुश रखने को गालिब ये ख्‍याल अच्‍छा है'
-> a nice thought to keep the heart happy aka whatever floats your boat aka delusion
+
+(a nice thought to keep the heart happy aka whatever floats your boat aka delusion)
 
 But then, there is this Urdu couplet I found that resonated, and seems to be true
 
