@@ -1,5 +1,6 @@
 ---
 published: true
+tags: Personal Life Culture
 ---
 > Soul is the prison of the body - Michel Foucault
 
