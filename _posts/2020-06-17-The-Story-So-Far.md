@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > When media images, policies and corporate standards tell someone that they are an outsider who needs to fit in in non-relevant ways, we’re establishing patterns of inequity and stress. We need to be clear about the job that needs to be done, the utility we’re seeking to create, but not erect irrelevant barriers, especially ones we can’t see without effort. - Seth Godin
 
