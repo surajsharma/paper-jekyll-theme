@@ -9,8 +9,7 @@ But narratives are malleable, and highly receptive to shifts in perception, and 
 
 But we are all experts in rationality these days, a virtue that affords us little by way of options to redefine, spin, or shift the narratives that surround us
 
-> In the beginner's mind there are many possibilities, but in the expert's there are few. 
-> - Shunryu Suzuki
+> In the beginner's mind there are many possibilities, but in the expert's there are few. -Shunryu Suzuki
 
 So, because the readily available lens of an antagonistic and irksome tale of rebellion and tragedy is a perpetual temptation egging me to exploit it, I must choose to look the other way, for I would not be much of a contrarian if I didn't.
 
