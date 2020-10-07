@@ -10,6 +10,3 @@ drop in a line at [suraj@evenzero.in](mailto:suraj@evenzero.in)
 ![](http://i.imgur.com/LjcPv.png) ![](http://i.imgur.com/cNKvt.png)
 
 ---
-
-
-Co-Founder @inversepolarity
