@@ -2,31 +2,57 @@
 # Main scss file
 ---
 
-
 @charset "utf-8";
 
-
 // Helpers
-@import
-    'helpers/mixins',
-    'helpers/variables';
+@import "helpers/mixins", "helpers/variables";
 
 // Base
-@import
-    'base/reset';
+@import "base/reset";
 
 // Utilities
-@import
-    'utilities/layout',
-    'utilities/separator';
+@import "utilities/layout", "utilities/separator";
 
 // Components
-@import
-    'components/page',
-    'components/article',
-    'components/tag',
-    'components/archives';
+@import "components/page", "components/article", "components/tag",
+    "components/archives";
 
 // Vendor
-@import
-    'vendor/highlight';
+@import "vendor/highlight";
+
+:root {
+    --main-color: #f1f2f3;
+    --second-color: #333333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    background: var(--main-color);
+}
+
+.circular-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 0;
+    top: calc(100vh - 100px);
+}
+
+.text {
+    /* font-family: "Fira Code"; */
+    /* font-family: 'Teko', sans-serif; */
+    /* font-family: 'UnifrakturCook', cursive; */
+    /* font-family: 'Major Mono Display', monospace; */
+    font-family: "VT323", monospace;
+    font-weight: 100;
+    text-transform: uppercase;
+    color: var(--second-color);
+}
