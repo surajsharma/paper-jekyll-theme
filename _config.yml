@@ -1,12 +1,11 @@
 # Site settings
 title: "SURAJ SHARMA / スラージ・シャルマ"
-description: 
+description:
 
 author: Suraj Sharma
-email: www.surajsharma@gmail.com
-twitter_username: surajbegins
+email: suraj@evenzero.in
+element_username: "@evenzero:matrix.org"
 github_username: surajsharma
-
 
 # If you are building a GitHub project page then use these settings:
 url: "https://evenzero.in"
