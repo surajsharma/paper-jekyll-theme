@@ -31,19 +31,18 @@
     box-sizing: border-box;
 }
 
-.container {
-    width: 100vw;
-    background: var(--main-color);
-}
-
 .circular-text {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    border: 1px solid red;
+    height: 0px;
+
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    // justify-content: center;
     position: fixed;
-    right: 0;
-    top: calc(100vh - 100px);
+    // right: calc(100vh / 2);
+    right: 50%;
+    margin-top: -250px;
 }
 
 .text {
